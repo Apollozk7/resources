@@ -1,0 +1,22 @@
+<meta>
+    <script src="client/tuning.lua" type="client" cache="false"/>
+    <script src="server/async.lua" type="server"/>
+
+    <script src="server/access_s.lua" type="server"/>
+    <script src="server/tuning_s.lua" type="server"/>
+    <script src="server/vehicles_server.lua" type="server"/>
+
+    <export function="saveVehicle" type="server"/>
+    <export function="addNewVehicle" type="server"/>
+    <export function="createNewVehicle" type="server"/>
+    <export function="isPlayerHavePJ" type="server"/>
+    <export function="isPlayerHaveAccessToVehicle" type="server"/>
+    <export function="reloadVehicleMechanicalUpgrades" type="server"/>
+    <export function="getVehicleHandlingWithEngine" type="server"/>
+
+    <export function="getTuningList" type="client"/>
+
+    <export function="getPlayerFreeVehicleSlot" type="server"/>
+    
+    <download_priority_group>-1</download_priority_group>
+</meta>

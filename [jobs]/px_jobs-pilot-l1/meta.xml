@@ -1,0 +1,14 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/job_screen.png"/>
+
+    <export function="startJob" type="server"/>
+    <export function="stopJob" type="server"/>
+    
+    <export function="isHaveBanner" type="client"/>
+    <export function="getBannerInfo" type="client"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

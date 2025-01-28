@@ -1,0 +1,28 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/job_screen.png"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/bar.png"/>
+    <file src="textures/progress.png"/>
+
+    <file src="textures/rura-lewo.png"/>
+    <file src="textures/circle.png"/>
+    <file src="textures/nalewak.png"/>
+    <file src="textures/dzwignia.png"/>
+
+    <file src="textures/hose_icon.png"/>
+    <file src="textures/marker-fuel.png"/>
+    <file src="textures/marker-silos.png"/>
+
+    <file src="sounds/ropa.mp3"/>
+
+    <export function="startJob" type="server"/>
+    <export function="stopJob" type="server"/>
+    <export function="action" type="server"/>
+    <export function="destroyLine" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

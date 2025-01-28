@@ -1,0 +1,42 @@
+<meta>
+    <info author="Xyrusek"/>
+    <script src="s_core.lua" type="server" cache="false" validate="true"/>
+
+    <script src="c_utils.lua" type="client" cache="false" validate="true"/>
+    <script src="c_assets.lua" type="client" cache="false" validate="true"/>
+    <script src="c_anims.lua" type="client" cache="false" validate="true"/>
+    <script src="c_core.lua" type="client" cache="false" validate="true"/>
+    <script src="c_panel.lua" type="client" cache="false" validate="true"/>
+    <script src="c_animationList.lua" type="client" cache="false" validate="true"/>
+
+    <file src="textures/animation_option.png"/>
+    <file src="textures/animation_option_hoverAndChecked.png"/>
+    <file src="textures/category_released.png"/>
+    <file src="textures/category_unreleased.png"/>
+    <file src="textures/full_breakline.png"/>
+    <file src="textures/half_breakline.png"/>
+    <file src="textures/header_animationName.png"/>
+    <file src="textures/icon_all.png"/>
+    <file src="textures/icon_favourite.png"/>
+    <file src="textures/icon_favourite_unchecked.png"/>
+    <file src="textures/icon_favourite_unchecked_hovered_bg.png"/>
+    <file src="textures/icon_minus.png"/>
+    <file src="textures/icon_plus.png"/>
+    <file src="textures/main_background.png"/>
+    <file src="textures/main_icon.png"/>
+    <file src="textures/W.png"/>
+    <file src="textures/W_hover.png"/>
+    <file src="textures/A.png"/>
+    <file src="textures/A_hover.png"/>
+    <file src="textures/S.png"/>
+    <file src="textures/S_hover.png"/>
+    <file src="textures/D.png"/>
+    <file src="textures/D_hover.png"/>
+    <file src="textures/arrow.png"/>
+    <file src="textures/arrow_hover.png"/>
+    <file src="textures/space.png"/>
+    <file src="textures/space_hover.png"/>
+
+    <min_mta_version server="1.5.8" client="1.5.8"></min_mta_version>
+    <download_priority_group>-1</download_priority_group>
+</meta>

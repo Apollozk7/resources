@@ -1,0 +1,8 @@
+<meta>
+    <script src="c_barriers.lua" type="client" cache="false"/>
+    <script src="s_barriers.lua" type="server"/>
+
+    <file src="textures/destroy.png"/>
+
+    <export function="action" type="server"/>
+</meta>

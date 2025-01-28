@@ -1,0 +1,19 @@
+<meta>
+    <script src='base_c.lua' type='client' cache='false'/>
+    <script src='base_s.lua' type='server'/>
+
+    <file src='textures/bg.png'/>
+    <file src='textures/header_left.png'/>
+    <file src='textures/header_icon.png'/>
+    <file src='textures/pb95.png'/>
+    <file src='textures/pb98.png'/>
+    <file src='textures/on.png'/>
+    <file src='textures/lpg.png'/>
+    <file src='textures/cost_bg.png'/>
+    <file src='textures/arrow.png'/>
+    <file src='textures/space.png'/>
+
+    <file src='textures/fuel_marker.png'/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

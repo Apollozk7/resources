@@ -1,0 +1,9 @@
+<meta>
+    <script src="client/markers_client.lua" type="client" cache="false"/>
+
+	<file src="assets/images/holder.png"/>
+	<file src="assets/images/shadow.png"/>
+    <file src="assets/images/place.png"/>
+
+	<min_mta_version client="1.4" server="1.4"/>
+</meta>

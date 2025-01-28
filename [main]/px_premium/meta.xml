@@ -1,0 +1,11 @@
+<meta>
+    <script src="client/client_premium.lua" type="client" cache="false"/>
+    <script src="server/server_premium.lua" type="server"/>
+
+    <export function="newPremium" type="server"/>
+    <export function="newGold" type="server"/>
+    <export function="givePremium" type="server"/>
+    <export function="giveGold" type="server"/>
+
+    <min_mta_version client="1.5.5" server="1.5.5"/>
+</meta>

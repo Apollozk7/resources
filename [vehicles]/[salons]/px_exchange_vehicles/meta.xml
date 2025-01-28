@@ -1,0 +1,24 @@
+<meta>
+    <script src="c_exchange.lua" type="client" cache="false"/>
+    <script src="s_exchange.lua" type="server"/>
+
+    <file src="textures/arrow.png"/>
+    <file src="textures/background.png"/>
+    <file src="textures/button-accept.png"/>
+    <file src="textures/button-back.png"/>
+    <file src="textures/button-close.png"/>
+    <file src="textures/car-icon.png"/>
+    <file src="textures/edit-icon.png"/>
+    <file src="textures/color.png"/>
+    <file src="textures/header_icon.png"/>
+    <file src="textures/info-icon.png"/>
+    <file src="textures/list.png"/>
+    <file src="textures/mycars-icon.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/row_hover.png"/>
+    <file src="textures/user-icon.png"/>
+    <file src="textures/window-info.png"/>
+    <file src="textures/level.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

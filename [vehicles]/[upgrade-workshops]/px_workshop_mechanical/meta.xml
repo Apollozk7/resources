@@ -1,0 +1,23 @@
+<meta>
+    <script src="c_tune.lua" type="client" cache="false"/>
+    <script src="s_tune.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/row.png"/>
+
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/bar_4.png"/>
+    <file src="textures/bar_5.png"/>
+    <file src="textures/bar_6.png"/>
+    <file src="textures/bar_7.png"/>
+
+    <file src="textures/check.png"/>
+    <file src="textures/check_gray.png"/>
+    <file src="textures/item.png"/>
+    <file src="textures/mk_bg.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

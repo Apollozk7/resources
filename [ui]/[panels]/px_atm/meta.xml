@@ -1,0 +1,18 @@
+<meta>
+	<script src="client/atm_client.lua" type="client" cache="false"/>
+	<script src="server/atm_server.lua" type="server"/>
+
+	<export function="getATMPositions" type="server"/>
+
+	<file src="assets/images/window.png"/>
+	<file src="assets/images/close.png"/>
+	<file src="assets/images/edit.png"/>
+
+	<file src="assets/sounds/click.mp3"/>
+	<file src="assets/sounds/hover.mp3"/>
+	<file src="assets/sounds/ATM_3D.mp3"/>
+
+	<export function="action" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<include resource="px_dashboard"/>
+	
+	<info description="Shader - Bloom" version="0.0.4" type="script" />
+	<script src="c_bloom.lua" type="client" cache="false" />
+	<file src="addBlend.fx" type="client" />
+	<file src="blurH.fx" type="client" />
+	<file src="blurV.fx" type="client" />
+	<file src="brightPass.fx" type="client" />
+	<file src="mta-helper.fx" type="client" />
+
+	<download_priority_group>-1</download_priority_group>
+</meta>

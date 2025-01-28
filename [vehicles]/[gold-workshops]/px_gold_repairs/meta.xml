@@ -1,0 +1,27 @@
+<meta>
+    <include resource="px_noti"/>
+    <include resource="px_buttons"/>
+    <include resource="px_scroll"/>
+    <include resource="blur"/>
+    <include resource="px_workshop_mechanic"/>
+
+    <script src="c_repair.lua" type="client" cache="false"/>
+    <script src="s_repair.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/header_icon.png"/>
+    <file src="textures/close_icon.png"/>
+    <file src="textures/list.png"/>
+    <file src="textures/nazwa_icon.png"/>
+    <file src="textures/stan_icon.png"/>
+    <file src="textures/koszt_icon.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+    <file src="textures/footer.png"/>
+    <file src="textures/button_icon.png"/>
+
+    <file src="textures/marker_fix.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

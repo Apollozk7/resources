@@ -1,0 +1,15 @@
+<meta>
+	<script src="client/blips_client.lua" type="client" cache="false"/>
+	<script src="server/blips_server.lua" type="server"/>
+
+	<export function="createBlipAttachedVehicle" type="client"/>
+	<export function="createBlipAttachedVehicle" type="server"/>
+
+	<export function="createPlayerBlip" type="server"/>
+	<export function="destroyPlayerBlip" type="server"/>
+
+	<export function="load_blips" type="client"/>
+
+	<file src="assets/images/arrow.png"/>
+	<oop>true</oop>
+</meta>

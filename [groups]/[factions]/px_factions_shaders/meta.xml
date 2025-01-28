@@ -1,0 +1,8 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    
+    <file src="shader.fx"/>
+    <file src="font.ttf"/>
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
+</meta>

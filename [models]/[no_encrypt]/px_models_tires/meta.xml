@@ -1,0 +1,14 @@
+<meta>
+    <script src='c_base.lua' type='client' cache='false'/>
+
+    <file src='models/opona1.dff'/>
+    <file src='models/opona1.txd'/>
+    <file src='models/opona2.dff'/>
+    <file src='models/opona2.txd'/>
+    <file src='models/opona3.dff'/>
+    <file src='models/opona3.txd'/>
+    <file src='models/opona4.dff'/>
+    <file src='models/opona4.txd'/>
+    <file src='models/opona5.dff'/>
+    <file src='models/opona5.txd'/>
+</meta>

@@ -1,0 +1,22 @@
+<meta>
+	<script src="client/notifications_c.lua" type="client" cache="false"/>
+	<script src="server/notifications_s.lua" type="server"/>
+
+	<file src="assets/images/info.png"/>
+	<file src="assets/images/error.png"/>
+	<file src="assets/images/success.png"/>
+
+	<file src="assets/sounds/info.mp3"/>
+
+	<export function="noti" type="client"/>
+	<export function="noti" type="server"/>
+	<export function="isNotificationExists" type="client"/>
+
+	<export function="notiSetText" type="client"/>
+	<export function="notiDestroy" type="client"/>
+
+
+	<min_mta_version client="1.5.9" server="1.5.9" />
+
+	<download_priority_group>30</download_priority_group>
+</meta>

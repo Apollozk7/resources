@@ -1,0 +1,6 @@
+txd = engineLoadTXD ("foto.txd")
+engineImportTXD ( txd, 16101 )
+dff = engineLoadDFF ( "foto.dff")
+engineReplaceModel ( dff, 16101 )
+col_floors = engineLoadCOL ( "foto.col" )
+engineReplaceCOL ( col_floors, 16101 )

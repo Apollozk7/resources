@@ -1,0 +1,23 @@
+<meta>
+    <script src="c_assets.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/grid.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/subgrid.png"/>
+    <file src="textures/subrow.png"/>
+    <file src="textures/plus.png"/>
+    <file src="textures/minus.png"/>
+    <file src="textures/car.png"/>
+    <file src="textures/marker_key.png"/>
+
+    <export function="loadClubAvatarFromIPS" type="server"/>
+
+    <min_mta_version server="1.5.8" client="1.5.8"></min_mta_version>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

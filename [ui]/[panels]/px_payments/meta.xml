@@ -1,0 +1,21 @@
+<meta>
+    <script src="client/client_payments.lua" type="client" cache="false"/>
+    <script src="server/server_payments.lua" type="server"/>
+
+    <file src="assets/images/window.png"/>
+    <file src="assets/images/header_icon.png"/>
+    <file src="assets/images/close.png"/>
+
+    <file src="assets/images/circle.png"/>
+
+    <file src="assets/images/icon_money.png"/>
+    <file src="assets/images/icon_time.png"/>
+    <file src="assets/images/icon_rank.png"/>
+    <file src="assets/images/icon_wallet.png"/>
+    
+    <file src="assets/images/withdrawMarker.png"/>
+
+    <file src="assets/images/button_icon.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

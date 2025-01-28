@@ -1,0 +1,10 @@
+<meta>
+	<script src="c_base.lua" type="client" cache="false"/>
+	<script src="c_tires.lua" type="client" cache="false"/>
+
+	<file src="shader.fx"/>
+	<file src="mta-helper.fx"/>
+	<file src='reflection_cubemap.dds'/>
+
+	<min_mta_version client="1.5.8" server="1.5.8" />
+</meta>

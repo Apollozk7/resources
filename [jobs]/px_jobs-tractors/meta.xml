@@ -1,0 +1,24 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false" />
+    <script src="s_base.lua" type="server" />
+    
+    <file src="textures/job_screen.png" />
+    <file src="textures/bg.png" />
+    <file src="textures/plus.png" />
+    <file src="textures/minus.png" />
+    <file src="textures/button_W.png" />
+    <file src="textures/button_S.png" />
+    <file src="textures/button_A.png" />
+    <file src="textures/button_D.png" />
+    <file src="textures/interaction.png" />
+    
+    <file src="sounds/chainsaw1.mp3" />
+    <file src="sounds/chainsaw2.mp3" />
+    <file src="sounds/chainsaw3.mp3" />
+    <file src="sounds/chainsaw4.mp3" />
+    
+    <export function="startJob" type="server" />
+    <export function="stopJob" type="server" />
+    <export function="action" type="client" />
+    <min_mta_version client="1.5.7-0.20397"></min_mta_version>
+</meta>

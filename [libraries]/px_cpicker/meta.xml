@@ -1,0 +1,15 @@
+<meta>
+    <script src="client/client_picker.lua" type="client" cache="false"/>
+
+    <export function="createPicker" type="client"/>
+    <export function="destroyCPicker" type="client"/>
+    <export function="getCPickerSelectedColor" type="client"/>
+
+    <file src="assets/images/cursor.png"/>
+    <file src="assets/images/h.png"/>
+    <file src="assets/images/sv.png"/>
+    <file src="assets/images/select_1.png"/>
+    <file src="assets/images/select_2.png"/>
+
+    <download_priority_group>9999999999999999999999999999999999999999999</download_priority_group>
+</meta>

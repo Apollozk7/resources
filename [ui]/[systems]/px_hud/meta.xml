@@ -1,0 +1,79 @@
+<meta>
+    <include resource="px_dashboard"/>
+
+    <script src="c_dm.lua" type="client" cache="false"/>
+    <script src="c_hud.lua" type="client" cache="false"/>
+
+    <export function="showFooterInfo" type="client"/>
+
+
+    <file src="shaders/tex_matrix.fx"/>
+    <file src="shaders/hud_mask.fx"/>
+
+
+
+    <file src='textures/avatar.png'/>
+    <file src='textures/circle_outline.png'/>
+
+    <file src='textures/mini_mask.png'/>
+    <file src='textures/mini_outline.png'/>
+
+    <file src='textures/big_outline.png'/>
+    <file src='textures/big_mask.png'/>
+
+    <file src='textures/hp.png'/>
+    <file src='textures/oxygen.png'/>
+    <file src='textures/armor.png'/>
+
+    <file src='textures/star.png'/>
+    <file src='textures/star_blank.png'/>
+
+    <file src='textures/reputacja.png'/>
+    
+    <file src='textures/weapon_bg.png'/>
+
+    <file src="textures/weapons/1.png"/>
+    <file src="textures/weapons/2.png"/>
+    <file src="textures/weapons/3.png"/>
+    <file src="textures/weapons/4.png"/>
+    <file src="textures/weapons/5.png"/>
+    <file src="textures/weapons/6.png"/>
+    <file src="textures/weapons/7.png"/>
+    <file src="textures/weapons/8.png"/>
+    <file src="textures/weapons/9.png"/>
+    <file src="textures/weapons/10.png"/>
+    <file src="textures/weapons/11.png"/>
+    <file src="textures/weapons/12.png"/>
+    <file src="textures/weapons/14.png"/>
+    <file src="textures/weapons/15.png"/>
+    <file src="textures/weapons/17.png"/>
+    <file src="textures/weapons/18.png"/>
+    <file src="textures/weapons/16.png"/>
+    <file src="textures/weapons/22.png"/>
+    <file src="textures/weapons/23.png"/>
+    <file src="textures/weapons/24.png"/>
+    <file src="textures/weapons/25.png"/>
+    <file src="textures/weapons/26.png"/>
+    <file src="textures/weapons/27.png"/>
+    <file src="textures/weapons/28.png"/>
+    <file src="textures/weapons/29.png"/>
+    <file src="textures/weapons/30.png"/>
+    <file src="textures/weapons/31.png"/>
+    <file src="textures/weapons/32.png"/>
+    <file src="textures/weapons/33.png"/>
+    <file src="textures/weapons/34.png"/>
+    <file src="textures/weapons/35.png"/>
+    <file src="textures/weapons/36.png"/>
+    <file src="textures/weapons/37.png"/>
+    <file src="textures/weapons/38.png"/>
+    <file src="textures/weapons/39.png"/>
+    <file src="textures/weapons/40.png"/>
+    <file src="textures/weapons/41.png"/>
+    <file src="textures/weapons/42.png"/>
+    <file src="textures/weapons/43.png"/>
+    <file src="textures/weapons/44.png"/>
+    <file src="textures/weapons/45.png"/>
+    <file src="textures/weapons/46.png"/>
+
+    <download_priority_group>-19</download_priority_group>
+</meta>

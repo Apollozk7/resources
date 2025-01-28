@@ -1,0 +1,16 @@
+<meta>
+    <script src="c_assets.lua" type="client" cache="false"/>
+    <script src="c_ui.lua" type="client" cache="false"/>
+    <script src="c_search.lua" type="client" cache="false"/>
+
+    <script src="s_base.lua" type="server"/>
+
+    <export function="action" type="client"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/item.png"/>
+    <file src="textures/close.png"/>
+
+    <min_mta_version client="1.5" server="1.5"/>
+    <download_priority_group>-1</download_priority_group>
+</meta>

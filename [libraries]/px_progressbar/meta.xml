@@ -1,0 +1,13 @@
+<meta>
+    <script src="client/client_progressbar.lua" type="client" cache="false"/>
+
+    <file src="assets/images/back.png"/>
+    <file src="assets/images/progress.png"/>
+    <file src="assets/images/progress2.png"/>
+
+    <export function="createProgressbar" type="client"/>
+    <export function="destroyProgressbar" type="client"/>
+    <export function="updateProgressbar" type="client"/>
+    
+    <download_priority_group>9999</download_priority_group>
+</meta>

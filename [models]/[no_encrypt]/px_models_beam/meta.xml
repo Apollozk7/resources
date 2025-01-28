@@ -1,0 +1,6 @@
+﻿<meta>     
+	<script src="podmianka.lua" type="client" cache="false" />
+	<file src="beam.txd" /> 
+	<file src="beam.col" /> 
+    <file src="beam.dff" />
+</meta>

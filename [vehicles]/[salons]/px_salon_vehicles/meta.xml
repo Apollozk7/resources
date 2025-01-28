@@ -1,0 +1,22 @@
+<meta>
+    <script src="c_vehs.lua" type="client" cache="false"/>
+    <script src="s_vehs.lua" type="server"/>
+
+    <file src="textures/car_buy.png"/>
+    <file src="textures/car_drive.png"/>
+    <file src="textures/window.png"/>
+    <file src="textures/icon.png"/>
+    <file src="textures/background.png"/>
+    <file src="textures/color.png"/>
+
+    <file src="textures/o_bg.png"/>
+    <file src="textures/text_bg.png"/>
+    <file src="textures/button.png"/>
+
+    <file src="shaders/shader.fx"/>
+
+    <export function="action" type="client"/>
+
+    <min_mta_version client="1.5" server="1.5"/>
+    <download_priority_group>-1</download_priority_group>
+</meta>

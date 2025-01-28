@@ -1,0 +1,44 @@
+﻿<meta>
+    <script src="script.lua" type="client" cache="false" />
+    
+    <file src="files/urzad.txd" />
+    <file src="files/urzad.dff" />
+    <file src="files/urzad.col" />
+    
+    <file src="files/glassgielda.txd" />
+    <file src="files/glassgielda.dff" />
+    <file src="files/glassgielda.col" />
+    
+    <file src="files/glasstaxi.txd" />
+    <file src="files/glasstaxi.dff" />
+    <file src="files/glasstaxi.col" />
+    <file src="files/glasstaxiplus.txd" />
+    <file src="files/glasstaxiplus.dff" />
+    <file src="files/glasstaxiplus.col" />
+    <file src="files/glasstaxiplus2.txd" />
+    <file src="files/glasstaxiplus2.dff" />
+    <file src="files/glasstaxiplus2.col" />
+    
+    <file src="files/glasspolice.txd" />
+    <file src="files/glasspolice.dff" />
+    <file src="files/glasspolice.col" />
+    <file src="files/glasspolice2.txd" />
+    <file src="files/glasspolice2.dff" />
+    <file src="files/glasspolice2.col" />
+    <file src="files/glasspolice3.txd" />
+    <file src="files/glasspolice3.dff" />
+    <file src="files/glasspolice3.col" />
+    <file src="files/glasspolice4.txd" />
+    <file src="files/glasspolice4.dff" />
+    <file src="files/glasspolice4.col" />
+    
+    <file src="files/glassjobstation.txd" />
+    <file src="files/glassjobstation.dff" />
+    <file src="files/glassjobstation.col" />
+
+    <file src="files/glassjobstation.txd" />
+    <file src="files/glassjobstation.dff" />
+    <file src="files/glassjobstation.col" />
+    
+    <min_mta_version client="1.5.7-9.20147"></min_mta_version>
+</meta>

@@ -1,0 +1,18 @@
+<meta>
+    <script src="c_carwash.lua" type="client" cache="false"/>
+    <script src="s_carwash.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/logo.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/button.png"/>
+    <file src="textures/button_red.png"/>
+    <file src="textures/button_green.png"/>
+    <file src="textures/row.png"/>
+
+    <file src="textures/carwashMarker.png"/>
+
+    <file src="digital-7.ttf"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

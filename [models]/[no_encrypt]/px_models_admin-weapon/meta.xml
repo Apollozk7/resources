@@ -1,0 +1,7 @@
+﻿<meta>     
+	<script src="pistolet.lua" type="client" cache="false"/> 
+	
+	<file src="pistolet.dff" />
+	<file src="pistolet.txd" />
+	
+</meta>

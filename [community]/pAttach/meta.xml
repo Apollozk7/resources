@@ -1,0 +1,18 @@
+<meta>
+	<min_mta_version client="1.5.8-0.20837" />
+	<oop>true</oop>
+
+	<script src="client.lua"      type="client" />
+	<script src="exports.lua"     type="shared" />
+
+	<export function="attach"            type="client" />
+	<export function="attachElementToBone"            type="shared" />
+	<export function="detachElementFromBone"            type="shared" />
+	<export function="detachAll"         type="shared" />
+	<export function="setElementBonePositionOffset" type="shared" />
+	<export function="setElementBoneRotationOffset" type="shared" />
+	<export function="isElementAttachedToBone"        type="shared" />
+	<export function="getElementBoneAttachmentDetails"        type="shared" />
+	<export function="invisibleAll"      type="shared" />
+	<export function="getAttacheds"      type="shared" />
+</meta>

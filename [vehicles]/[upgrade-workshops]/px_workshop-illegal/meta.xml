@@ -1,0 +1,36 @@
+<meta>
+    <script src="c_assets.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <script src="c_tint.lua" type="client" cache="false"/>
+    <script src="c_radar.lua" type="client" cache="false"/>
+    <script src="s_cb.lua" type="server"/>
+
+    <export function='getVehicleSpeedoColorName' type='client'/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/header_icon.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/nav.png"/>
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+    <file src="textures/color.png"/>
+    <file src="textures/color_selected.png"/>
+    <file src="textures/lights.png"/>
+    <file src="textures/footer.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/eye.png"/>
+    <file src="textures/button.png"/>
+
+    <file src="textures/radar.png"/>
+
+    <file src="textures/right_button.png"/>
+    <file src="textures/right_button_light.png"/>
+    <file src="textures/enter_button.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

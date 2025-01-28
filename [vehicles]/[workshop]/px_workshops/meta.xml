@@ -1,0 +1,36 @@
+<meta>
+    <script src="client/client_duty.lua" type="client" cache="false"/>
+    <script src="client/client_discount.lua" type="client" cache="false"/>
+    <script src="client/client_zone.lua" type="client" cache="false"/>
+
+    <script src="server/server_tires.lua" type="server"/>
+    <script src="server/server_duty.lua" type="server"/>
+    <script src="server/server_zones.lua" type="server"/>
+
+    <file src="assets/images/window.png"/>
+    <file src="assets/images/window_icon.png"/>
+    <file src="assets/images/ranga.png"/>
+    <file src="assets/images/wyplata.png"/>
+    <file src="assets/images/button_start.png"/>
+    <file src="assets/images/button_close.png"/>
+    <file src="assets/images/wrench.png"/>
+    <file src="assets/images/tire.png"/>
+
+    <file src="assets/images/checkbox.png"/>
+    <file src="assets/images/checkbox_selected.png"/>
+    <file src="assets/images/rabat_bg.png"/>
+    <file src="assets/images/rabat_circle.png"/>
+
+    <file src="assets/shaders/shader.fx"/>
+
+    <export function="addShapes" type="client"/>
+    <export function="openDiscountUI" type="client"/>
+    <export function="sendOffer" type="client"/>
+    <export function="isPlayerHaveInteraction" type="client"/>
+
+    <export function="getTire" type="server"/>
+    <export function="destroyTire" type="server"/>
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
+    <download_priority_group>-1</download_priority_group>
+</meta>

@@ -1,0 +1,28 @@
+<meta>
+    <script src="c_phone.lua" type="client" cache="false"/>
+    <script src="s_phone.lua" type="server"/>
+
+    <file src="textures/phone.png"/>
+    <file src="textures/phone2.png"/>
+
+    <file src="textures/fire.png"/>
+    <file src="textures/kontakty.png"/>
+    <file src="textures/sms.png"/>
+
+    <file src="textures/phone_icon.png"/>
+
+    <file src="textures/row.png"/>
+
+    <file src="textures/cancel.png"/>
+    <file src="textures/accept.png"/>
+    <file src="textures/circle.png"/>
+
+    <file src="sounds/zadzwonpozniej.mp3"/>
+    <file src="sounds/dzwonek.mp3"/>
+    <file src="sounds/signal.mp3"/>
+    <file src="sounds/end.mp3"/>
+
+    <export function="sendSMS" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

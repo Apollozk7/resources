@@ -1,0 +1,9 @@
+<meta>
+    <script src="client/3d.lua" type="client" cache="false"/>
+
+    <file src="assets/images/window.png"/>
+    <file src="assets/images/info_icon.png"/>
+    <file src="assets/images/fire.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

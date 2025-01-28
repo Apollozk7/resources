@@ -1,0 +1,76 @@
+<meta>
+    <script src="c_management.lua" type="client" cache="false"/>
+    <script src="s_management.lua" type="server"/>
+
+    <!-- bars -->
+    <script src="lua_bars/stats.lua" type="client" cache="false"/>
+    <file src="textures/bars/stats/logo_bg.png"/>
+    <file src="textures/bars/stats/logo_bg2.png"/>
+    <file src="textures/bars/stats/logo_outline.png"/>
+    <file src="textures/bars/stats/xp_bg.png"/>
+    <file src="textures/bars/stats/bg.png"/>
+    <file src="textures/bars/stats/bg2.png"/>
+    <file src="textures/bars/stats/group-icon.png"/>
+    <file src="textures/bars/stats/activity-icon.png"/>
+    <file src="textures/bars/stats/rising-icon.png"/>
+    <file src="textures/bars/stats/vehs-icon.png"/>
+
+    <script src="lua_bars/users.lua" type="client" cache="false"/>
+    <file src="textures/bars/users/list.png"/>
+    <file src="textures/bars/users/row.png"/>
+    <file src="textures/bars/users/rozwin.png"/>
+    <file src="textures/bars/users/user_icon.png"/>
+    <file src="textures/bars/users/awansuj.png"/>
+    <file src="textures/bars/users/degraduj.png"/>
+    <file src="textures/bars/users/wyrzuc.png"/>
+    <file src="textures/bars/users/checkbox.png"/>
+    <file src="textures/bars/users/checkbox_selected.png"/>
+    <file src="textures/bars/users/zwin.png"/>
+
+    <script src="lua_bars/map.lua" type="client" cache="false"/>
+    <file src="textures/bars/map/car.png"/>
+    <file src="textures/bars/map/house.png"/>
+    <file src="textures/bars/map/player.png"/>
+
+    <script src="lua_bars/ranks.lua" type="client" cache="false"/>
+    <file src="textures/bars/ranks/edit_name.png"/>
+    <file src="textures/bars/ranks/edit_money.png"/>
+    <file src="textures/bars/ranks/button_add.png"/>
+
+    <script src="lua_bars/tasks.lua" type="client" cache="false"/>
+    <file src="textures/bars/tasks/progress-bg.png"/>
+    <file src="textures/bars/tasks/task-bg.png"/>
+    <file src="textures/bars/tasks/task-bg2.png"/>
+    <file src="textures/bars/tasks/check.png"/>
+    <file src="textures/bars/tasks/no_active.png"/>
+
+    <script src="lua_bars/upgrades.lua" type="client" cache="false"/>
+    <!-- -->
+
+    <file src="textures/icons/dollar.png"/>
+    <file src="textures/icons/fuel.png"/>
+    <file src="textures/icons/hours.png"/>
+    <file src="textures/icons/job.png"/>
+    <file src="textures/icons/mandate.png"/>
+    <file src="textures/icons/vehs.png"/>
+    <file src="textures/icons/users.png"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/left_bar.png"/>
+    <file src="textures/logo_bg.png"/>
+    <file src="textures/exit.png"/>
+    <file src="textures/left_logo.png"/>
+    <file src="textures/logo.png"/>
+    <file src="textures/loading.png"/>
+
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/bar_4.png"/>
+    <file src="textures/bar_5.png"/>
+    <file src="textures/bar_6.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

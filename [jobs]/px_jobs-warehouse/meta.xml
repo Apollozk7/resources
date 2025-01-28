@@ -1,0 +1,19 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/job_screen.png"/>
+    <file src="textures/boxMarker.png"/>
+
+    <file src="textures/1.png"/>
+    <file src="textures/2.png"/>
+    <file src="textures/3.png"/>
+    <file src="textures/4.png"/>
+    <file src="textures/5.png"/>
+    <file src="textures/6.png"/>
+
+    <file src="textures/buttonQ.png"/>
+
+    <export function="startJob" type="server"/>
+    <export function="stopJob" type="server"/>
+</meta>

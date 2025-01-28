@@ -1,0 +1,17 @@
+<meta>
+    <script src="client/client_achievements.lua" type="client" cache="false"/>
+    <script src="server/server_achievements.lua" type="server"/>
+
+    <file src="assets/images/bg.png"/>
+    <file src="assets/images/badge.png"/>
+    <file src="assets/images/row.png"/>
+
+    <file src="assets/sounds/achievement.mp3"/>
+
+    <export function="getAchievement" type="shared"/>
+    <export function="isPlayerHaveAchievement" type="shared"/>
+
+    <export function="getAchievements" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

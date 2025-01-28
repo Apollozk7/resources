@@ -1,0 +1,34 @@
+<meta>
+    <script src="c_assets.lua" type="client" cache="false"/>
+    <script src="c_variables.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/job_screen.png"/>
+
+    <file src="textures/boxMarker.png"/>
+
+    <file src="textures/dative.png"/>
+    <file src="textures/target.png"/>
+
+    <file src="textures/tablet.png"/>
+    <file src="textures/bg-dane.png"/>
+    <file src="textures/qrcode.png"/>
+    <file src="textures/poswiata.png"/>
+    <file src="textures/gopostal.png"/>
+
+    <file src="textures/boxes/1.png"/>
+    <file src="textures/boxes/2.png"/>
+    <file src="textures/boxes/3.png"/>
+    <file src="textures/boxes/4.png"/>
+    <file src="textures/boxes/5.png"/>
+    <file src="textures/boxes/6.png"/>
+    <file src="textures/boxes/7.png"/>
+
+    <file src="textures/marker_parcel.png"/>
+
+    <export function="startJob" type="server"/>
+    <export function="stopJob" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

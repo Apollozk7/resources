@@ -1,0 +1,18 @@
+<meta>
+    <script src="client/client_spray.lua" type="client" cache="false"/>
+    <script src="server/server_spray.lua" type="server"/>
+
+    <export function="sendOffer" type="client"/>
+
+    <file src="assets/images/bg.png"/>
+    <file src="assets/images/nav.png"/>
+    <file src="assets/images/header.png"/>
+    <file src="assets/images/color.png"/>
+    <file src="assets/images/button.png"/>
+    <file src="assets/images/nav_icon.png"/>
+    <file src="assets/images/close.png"/>
+    <file src="assets/images/spray.png"/>
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
+    <download_priority_group>-1</download_priority_group>
+</meta>

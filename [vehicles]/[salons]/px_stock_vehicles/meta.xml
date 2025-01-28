@@ -1,0 +1,54 @@
+<meta>
+    <script src="assets/c_tuning.lua" type="client" cache="false"/>
+    <script src="assets/c_materials.lua" type="client" cache="false"/>
+
+    <script src="c_put.lua" type="client" cache="false"/>
+    <script src="c_sell.lua" type="client" cache="false"/>
+    <script src="c_3d.lua" type="client" cache="false"/>
+
+    <script src="s_sell.lua" type="server"/>
+    <script src="s_put.lua" type="server"/>
+
+    <export function="setGhost" type="server"/>
+    
+    <export function="loadStockVehicles" type="server"/>
+    <export function="saveStockVehicles" type="server"/>
+    <export function="action" type="server"/>
+    <export function='sendBuyVehicleOffer' type='server'/>
+
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_active.png"/>
+
+    <file src="textures/button.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/edit.png"/>
+    <file src="textures/icon.png"/>
+    <file src="textures/icon_window.png"/>
+    <file src="textures/success.png"/>
+    <file src="textures/window.png"/>
+    <file src="textures/car_buy.png"/>
+
+    <file src="textures/zabieranie/window.png"/>
+    <file src="textures/zabieranie/success.png"/>
+
+    <file src="textures/sell/button_icon.png"/>
+    <file src="textures/sell/car_icon.png"/>
+    <file src="textures/sell/close.png"/>
+    <file src="textures/sell/edit_icon.png"/>
+    <file src="textures/sell/header_icon.png"/>
+    <file src="textures/sell/players_icon.png"/>
+    <file src="textures/sell/vehs_icon.png"/>
+    <file src="textures/sell/window.png"/>
+    <file src="textures/sell/row.png"/>
+    <file src="textures/sell/podpis.png"/>
+    <file src="textures/sell/color.png"/>
+    <file src="textures/sell/tak_button.png"/>
+    <file src="textures/sell/nie_button.png"/>
+    <file src="textures/sell/carsellMarker.png"/>
+
+    <file src="shaders/shader.fx"/>
+
+    <min_mta_version client="1.5.6" server="1.5.6" />
+    
+    <download_priority_group>-1</download_priority_group>
+</meta>

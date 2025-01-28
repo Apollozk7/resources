@@ -1,0 +1,16 @@
+<meta>
+    <script src="c_jobs.lua" type="client" cache="false"/>
+    <script src="s_jobs.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/header_icon.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/places.png"/>
+    <file src="textures/icon-1.png"/>
+    <file src="textures/icon-2.png"/>
+    <file src="textures/govMarker.png"/>
+    <file src="textures/button_icon.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

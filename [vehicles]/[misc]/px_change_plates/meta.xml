@@ -1,0 +1,22 @@
+<meta>
+    <include resource="blur"/>
+    <include resource="px_plates"/>
+    <include resource="px_editbox"/>
+    <include resource="px_scroll"/>
+    <include resource="px_buttons"/>
+    <include resource="px_noti"/>
+
+    <script src="c_change.lua" type="client" cache="false"/>
+    <script src="s_change.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/header_icon.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/row_selected.png"/>
+    <file src="textures/car_icon.png"/>
+    <file src="textures/accept_button.png"/>
+    <file src="textures/cancel_button.png"/>
+    <file src="textures/platesMarker.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

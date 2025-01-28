@@ -1,0 +1,23 @@
+<meta>
+	<script src="client/scoreboard_client.lua" type="client" cache="false"/>
+
+	<file src="assets/images/window.png"/>
+	<file src="assets/images/info_bar.png"/>
+	<file src="assets/images/nick.png"/>
+	<file src="assets/images/org.png"/>
+	<file src="assets/images/frakcja.png"/>
+	<file src="assets/images/ping.png"/>
+	<file src="assets/images/bar.png"/>
+	<file src="assets/images/icon.png"/>
+	<file src="assets/images/default.png"/>
+	<file src="assets/images/add.png"/>
+	<file src="assets/images/block.png"/>
+	<file src="assets/images/settings.png"/>
+	<file src="assets/images/settings_bg.png"/>
+	<file src="assets/images/id.png"/>
+	<file src="assets/images/rp.png"/>
+
+	<include resource="px_admin"/>
+	<include resource="px_avatars"/>
+	<download_priority_group>-20</download_priority_group>
+</meta>

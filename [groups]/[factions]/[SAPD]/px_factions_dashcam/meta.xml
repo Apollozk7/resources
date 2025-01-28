@@ -1,0 +1,15 @@
+<meta>
+    <script src="c_dashcam.lua" type="client" cache="false"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/right.png"/>
+    <file src="textures/circle.png"/>
+    <file src="textures/icon_1.png"/>
+    <file src="textures/icon_2.png"/>
+    <file src="textures/icon_3.png"/>
+    <file src="textures/icon_4.png"/>
+
+    <file src="fonts/digital-7.ttf"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

@@ -1,0 +1,7 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <file src="tabliczka.col"/>
+    <file src="tabliczka.dff"/>
+    <file src="tabliczka.txd"/>
+</meta>

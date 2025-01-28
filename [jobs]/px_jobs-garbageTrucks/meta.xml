@@ -1,0 +1,24 @@
+<meta>
+    <script src="c_platforms.lua" type="client" cache="false"/>
+    <script src="c_variables.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+
+    <script src="s_variables.lua" type="server"/>
+    <script src="s_base.lua" type="server"/>
+    <script src="s_platforms.lua" type="server"/>
+
+    <file src="textures/job_screen.png"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/progress.png"/>
+    <file src="textures/x_button.png"/>
+    <file src="textures/arrow.png"/>
+
+    <file src="textures/marker_trash.png"/>
+
+    <export function="startJob" type="server"/>
+    <export function="stopJob" type="server"/>
+    <export function="sendUpgrades" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

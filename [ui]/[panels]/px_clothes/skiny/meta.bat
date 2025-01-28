@@ -1,0 +1,1 @@
+forfiles /s /m *.* /c "cmd /c echo ^<file src=@relpath^>^<^/file^>" > meta.xml

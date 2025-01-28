@@ -1,0 +1,11 @@
+<meta>
+    <script src="client/client_vehs.lua" type="client" cache="false"/>
+    <script src="server/server_vehs.lua" type="server"/>
+
+    <export function="getFuelUsage" type="shared"/>
+    <export function="getVehicleEngineFromName" type="shared"/>
+    <export function="getVehicleEngineFromModel" type="shared"/>
+    <export function="getVehicleEngines" type="shared"/>
+    <export function="setVehicleDefaultHandling" type="server"/>
+    <export function="getVehicleDefaultVelocity" type="server"/>
+</meta>

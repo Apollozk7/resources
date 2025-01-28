@@ -1,0 +1,5 @@
+<meta>
+    <script src="s_base.lua" type="server"/>
+
+    <export function="updateQuest" type="server"/>
+</meta>

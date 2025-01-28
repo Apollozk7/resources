@@ -1,0 +1,60 @@
+<meta>
+	<min_mta_version client="1.5.1" server="1.5.1" />
+
+	<script src="c_interaction.lua" type="client" cache="false"/>
+	<script src="s_interaction.lua" type="server"/>
+
+	<file src="textures/bg.png"/>
+	<file src="textures/background.png"/>
+	<file src="textures/arrow.png"/>
+
+	<file src="textures/icons/error.png"/>
+	<file src="textures/icons/bagaznik-icon.png"/>
+	<file src="textures/icons/drzwi-icon.png"/>
+	<file src="textures/icons/friend.png"/>
+	<file src="textures/icons/handel-icon.png"/>
+	<file src="textures/icons/maska-icon.png"/>
+	<file src="textures/icons/schowek-icon.png"/>
+	<file src="textures/icons/chat-icon.png"/>
+	<file src="textures/icons/obracanie-icon.png"/>
+	<file src="textures/icons/otworz-zamknij-icon.png"/>
+	<file src="textures/icons/przywitanie-icon.png"/>
+	<file src="textures/icons/silowanie-icon.png"/>
+	<file src="textures/icons/zdejmijbw-icon.png"/>
+	<file src="textures/icons/car-fix-icon.png"/>
+	<file src="textures/icons/car-tirefix-icon.png"/>
+	<file src="textures/icons/gasoline-icon.png"/>
+	<file src="textures/icons/stereo_icon.png"/>
+	<file src="assets/images/icons/chat-icon.png"/>
+	<file src="textures/icons/robbery.png"/>
+	<file src="textures/icons/przeszukanie.png"/>
+
+	<file src="sounds/hover.mp3"/>
+    <file src="sounds/click.mp3"/>
+
+	<export function="action" type="client"/>
+
+	<export function="addFriend" type="client"/>
+	<export function="removeFriend" type="client"/>
+	<export function="isPlayerInFriends" type="client"/>
+
+	<export function="blockPlayer" type="shared"/>
+	<export function="unblockPlayer" type="shared"/>
+	<export function="isPlayerBlocked" type="shared"/>
+
+	<!-- hands -->
+	<script src="c_hands.lua" type="client" cache="false"/>
+	<script src="s_hands.lua" type="server"/>
+
+	<file src="textures/hands/header_icon.png"/>
+	<file src="textures/hands/bg_name.png"/>
+	<file src="textures/hands/hands.png"/>
+	<file src="textures/hands/effect.png"/>
+	<file src="textures/hands/spacebar.png"/>
+	<file src="textures/hands/accept_button.png"/>
+	<file src="textures/hands/cancel_button.png"/>
+	<file src="textures/hands/edit_icon.png"/>
+	<file src="textures/hands/bg.png"/>
+
+    <download_priority_group>-2</download_priority_group>
+</meta>

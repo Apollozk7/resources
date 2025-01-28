@@ -1,0 +1,29 @@
+<meta>
+    <script src="c_wheels.lua" type="client" cache="false"/>
+    <script src="s_wheels.lua" type="server"/>
+
+    <file src="textures/circle.png"/>
+
+    <file src="textures/wheel_width.png"/>
+    <file src="textures/wheel_offset.png"/>
+    <file src="textures/wheel_negative.png"/>
+    <file src="textures/wheel_color.png"/>
+
+    <file src="textures/arrow_up.png"/>
+    <file src="textures/arrow_down.png"/>
+    <file src="textures/space_button.png"/>
+    <file src="textures/arrow_up_light.png"/>
+    <file src="textures/arrow_down_light.png"/>
+    <file src="textures/space_button_light.png"/>
+
+    <file src="textures/right_button.png"/>
+    <file src="textures/right_button_light.png"/>
+    <file src="textures/middle_bg.png"/>
+    <file src="textures/enter_button.png"/>
+    <file src="textures/x_button.png"/>
+
+    <file src="textures/elipse.png"/>
+    <file src="textures/elipse_border.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

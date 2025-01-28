@@ -1,0 +1,8 @@
+<meta>
+	<script src="client.lua" type="client" cache="false"/>
+
+	<file src="images/speaker.png"/>
+	<file src="images/default.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

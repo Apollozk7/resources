@@ -1,0 +1,11 @@
+<meta>
+    <include resource="px_vehicles"/>
+    <include resource="px_custom_vehicles"/>
+
+    <script src="c_diag.lua" type="client" cache="false"/>
+    <script src="s_diag.lua" type="server"/>
+
+    <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+
+    <download_priority_group>50</download_priority_group>
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+    <script src="c.lua" type="client" />
+    <file src="PrzechoLV.dff"/>
+    <file src="PrzechoLV.col"/>
+</meta>

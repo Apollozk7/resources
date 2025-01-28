@@ -1,0 +1,73 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="c_info.lua" type="client" cache="false"/>
+    <script src="c_ranking.lua" type="client" cache="false"/>
+    <script src="c_upgrades.lua" type="client" cache="false"/>
+    <script src="c_coop.lua" type="client" cache="false"/>
+    <script src="c_3d.lua" type="client" cache="false"/>
+
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/govMarker.png"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/left_bar.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/close.png"/>
+
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/bar_4.png"/>
+
+    <file src="textures/circle.png"/>
+    <file src="textures/job_name.png"/>
+    <file src="textures/start_job.png"/>
+
+    <file src="textures/row.png"/>
+    <file src="textures/row_2.png"/>
+    <file src="textures/top_1.png"/>
+
+    <file src="textures/button_icon.png"/>
+    <file src="textures/pass.png"/>
+    <file src="textures/del.png"/>
+    <file src="textures/icon_driver.png"/>
+    <file src="textures/icon_worker.png"/>
+    <file src="textures/edit_pass.png"/>
+
+    <file src="textures/upgrades/upgrade_biceps.png"/>
+    <file src="textures/upgrades/upgrade_forklift.png"/>
+    <file src="textures/upgrades/upgrade_running.png"/>
+
+    <file src="textures/upgrades/upgrade_tank_2.png"/>
+    <file src="textures/upgrades/upgrade_tank_3.png"/>
+
+    <file src="textures/upgrades/upgrade_enfoncer.png"/>
+    <file src="textures/upgrades/upgrade_gold.png"/>
+    <file src="textures/upgrades/upgrade_diax.png"/>
+
+    <file src="textures/upgrades/upgrade_pilot_tank_1.png"/>
+    <file src="textures/upgrades/upgrade_pilot_tank_2.png"/>
+
+    <file src="textures/upgrades/upgrade_mower_tank.png"/>
+    <file src="textures/upgrades/upgrade_mower_tractor.png"/>
+    
+    <file src="textures/upgrades/upgrade_paczkomat.png"/>
+    <file src="textures/upgrades/upgrade_car_2.png"/>
+    <file src="textures/upgrades/upgrade_car_3.png"/>
+    <file src="textures/upgrades/upgrade_car_4.png"/>
+
+    <file src="textures/upgrades/icon_upgrade_car.png"/>
+    <file src="textures/upgrades/icon_upgrade_fuel.png"/>
+    <file src="textures/upgrades/icon_upgrade_wood.png"/>
+    <file src="textures/upgrades/icon_upgrade_offroad.png"/>
+
+    <file src="textures/upgrades/icon_tractors_1.png"/>
+    <file src="textures/upgrades/icon_tractors_2.png"/>
+
+    <export function="getPayment" type="server"/>
+    <export function="stopJob" type="server"/>
+
+    <min_mta_version client="1.5" server="1.5"/>
+    <download_priority_group>-1</download_priority_group>
+</meta>

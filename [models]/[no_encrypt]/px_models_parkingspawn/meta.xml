@@ -1,0 +1,13 @@
+﻿<meta>
+	<info author="L4MP3K" version="0.1" type="resource"/>
+     
+	<script src="podmianka.lua" type="client" />  -- podmienia obiekty
+	
+	<file src="podloze.txd" /> 
+    <file src="podloze.dff" />
+
+
+	<file src="podloze.txd" /> 
+    <file src="podloze1.dff" />
+
+</meta>

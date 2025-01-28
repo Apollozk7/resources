@@ -1,0 +1,6 @@
+<meta> 
+<script src="barierka.lua" type="client" />
+<file src="barierka.dff" /> 
+<file src="barierka.col" /> 
+<file src="barierka.txd" /> 
+</meta>

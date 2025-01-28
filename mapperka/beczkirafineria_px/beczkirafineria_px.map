@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (sw_fueldrum01) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="664.59998" posY="1752.6" posZ="7.4" rotX="0" rotY="0" rotZ="36.5"></object>
+    <object id="object (sw_fueldrum01) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="1610.6" posY="2236.2" posZ="13" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (sw_fueldrum01) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="2194.3999" posY="2502.7" posZ="13" rotX="0" rotY="0" rotZ="90.5"></object>
+    <object id="object (sw_fueldrum01) (4)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="2624.7" posY="1138.3" posZ="13" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (sw_fueldrum01) (5)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="2130.2" posY="889" posZ="13" rotX="0" rotY="0" rotZ="-90"></object>
+    <object id="object (sw_fueldrum01) (7)" breakable="false" interior="0" alpha="255" dimension="0" model="13025" scale="1" doublesided="false" collisions="true" posX="2120.1001" posY="2718.2" posZ="13" rotX="0" rotY="0" rotZ="-180"></object>
+</map>

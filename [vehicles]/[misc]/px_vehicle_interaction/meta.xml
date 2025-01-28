@@ -1,0 +1,34 @@
+<meta>
+	<script src="c.lua" type="client" cache="false" />
+	<script src="gui.lua" type="client" cache="false" />
+	<script src="s.lua" type="server" />
+
+	<file src="textures/bg.png"/>
+
+	<file src="textures/icon_disabled.png"/>
+
+	<file src="textures/button_arrow_left.png"/>
+	<file src="textures/button_arrow_light.png"/>
+
+	<file src="textures/spacebar.png"/>
+	<file src="textures/spacebar_light.png"/>
+
+	<file src="textures/elipse_1.png"/>
+	<file src="textures/elipse_2.png"/>
+
+	<file src="textures/icon_brake.png"/>
+	<file src="textures/icon_disabled.png"/>
+	<file src="textures/icon_engine.png"/>
+	<file src="textures/icon_lights.png"/>
+	<file src="textures/icon_lock.png"/>
+	<file src="textures/icon_pb.png"/>
+	<file src="textures/icon_lpg.png"/>
+	<file src="textures/icon_wyrzuc.png"/>
+	<file src="textures/icon_multiled.png"/>
+	<file src="textures/icon_najazdy.png"/>
+	<file src="textures/icon_siren.png"/>
+	<file src="textures/icon_asr.png"/>
+	<file src="textures/icon_suspension.png"/>
+
+	<download_priority_group>-2</download_priority_group>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+<script src="Podmiana.lua" type="client" />
+<file src="tabliczkamech.txd"/>
+<file src="tabliczkamech.dff"/>
+<file src="tabliczkamech.col"/>
+</meta>

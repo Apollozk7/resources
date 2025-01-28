@@ -1,0 +1,10 @@
+<meta>
+	<script src="c_camera.lua" type="client" cache="false"/>
+	<script src="s_camera.lua" type="server"/>
+
+	<file src="sounds/radar.wav"/>
+
+	<export function="getCameras" type='client'/>
+
+	<min_mta_version client="1.5" server="1.5"/>
+</meta>

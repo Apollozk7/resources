@@ -1,0 +1,17 @@
+<meta>
+    <script src="c_components.lua" type="client" cache="false"/>
+    <script src="s_components.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/arrow.png"/>
+    <file src="textures/buy.png"/>
+    <file src="textures/circle_choose.png"/>
+    <file src="textures/enter_button.png"/>
+    <file src="textures/have.png"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/accept.png"/>
+    <file src="textures/cancel.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

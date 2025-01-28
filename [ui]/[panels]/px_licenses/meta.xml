@@ -1,0 +1,109 @@
+<meta>
+    <script src="client/client_licenses.lua" type="client" cache="false"/>
+    <script src="client/quests.lua" type="client" cache="false"/>
+    <script src="client/client_practice.lua" type="client" cache="false"/>
+    <script src="server/server_licenses.lua" type="server"/>
+
+    <file src="assets/images/window_start.png"/>
+    <file src="assets/images/icon_start.png"/>
+    <file src="assets/images/button_start.png"/>
+    <file src="assets/images/button_close.png"/>
+
+    <file src="assets/images/window_quests.png"/>
+    <file src="assets/images/checkbox.png"/>
+    <file src="assets/images/checkbox_selected.png"/>
+    <file src="assets/images/git.png"/>
+    <file src="assets/images/zle.png"/>
+    <file src="assets/images/zle2.png"/>
+
+    <file src="assets/images/window_end.png"/>
+
+    <file src="assets/images/quests/error.png"/>
+
+    <!-- bron -->
+    <file src="assets/images/quests/bron1.png"/>
+    <file src="assets/images/quests/bron2.png"/>
+    <file src="assets/images/quests/bron3.png"/>
+
+    <!-- A-->
+    <file src="assets/images/quests/a1.png"/>
+    <file src="assets/images/quests/a2.png"/>
+    <file src="assets/images/quests/a3.png"/>
+    <file src="assets/images/quests/a4.png"/>
+    <file src="assets/images/quests/a5.png"/>
+    <file src="assets/images/quests/a6.png"/>
+    <file src="assets/images/quests/a7.png"/>
+    <file src="assets/images/quests/a8.png"/>
+    <file src="assets/images/quests/a9.png"/>
+    <file src="assets/images/quests/a10.png"/>
+    <!-- B -->
+    <file src="assets/images/quests/1.png"/>
+    <file src="assets/images/quests/2.png"/>
+    <file src="assets/images/quests/3.png"/>
+    <file src="assets/images/quests/4.png"/>
+    <file src="assets/images/quests/5.png"/>
+    <file src="assets/images/quests/6.png"/>
+    <file src="assets/images/quests/7.png"/>
+    <file src="assets/images/quests/8.png"/>
+    <file src="assets/images/quests/9.png"/>
+    <file src="assets/images/quests/10.png"/>
+    <file src="assets/images/quests/11.png"/>
+    <file src="assets/images/quests/12.png"/>
+    <file src="assets/images/quests/13.png"/>
+    <file src="assets/images/quests/14.png"/>
+    <file src="assets/images/quests/15.png"/>
+    <file src="assets/images/quests/16.png"/>
+    <file src="assets/images/quests/17.png"/>
+    <file src="assets/images/quests/18.png"/>
+    <file src="assets/images/quests/19.png"/>
+    <file src="assets/images/quests/20.png"/>
+    <!-- C -->
+    <file src="assets/images/quests/c1.png"/>
+    <file src="assets/images/quests/c2.png"/>
+    <file src="assets/images/quests/c3.png"/>
+    <file src="assets/images/quests/c4.png"/>
+    <file src="assets/images/quests/c5.png"/>
+    <file src="assets/images/quests/c6.png"/>
+    <file src="assets/images/quests/c7.png"/>
+    <file src="assets/images/quests/c8.png"/>
+    <file src="assets/images/quests/c9.png"/>
+    <file src="assets/images/quests/c10.png"/>
+    <!-- C+E -->
+    <file src="assets/images/quests/ce1.png"/>
+    <file src="assets/images/quests/ce2.png"/>
+    <file src="assets/images/quests/ce3.png"/>
+    <file src="assets/images/quests/ce4.png"/>
+    <file src="assets/images/quests/ce5.png"/>
+    <file src="assets/images/quests/ce6.png"/>
+    <file src="assets/images/quests/ce7.png"/>
+    <file src="assets/images/quests/ce8.png"/>
+    <file src="assets/images/quests/ce9.png"/>
+    <file src="assets/images/quests/ce10.png"/>
+    <!-- L -->
+    <file src="assets/images/quests/l1.png"/>
+    <file src="assets/images/quests/l2.png"/>
+    <file src="assets/images/quests/l3.png"/>
+    <file src="assets/images/quests/l4.png"/>
+    <file src="assets/images/quests/l5.png"/>
+    <file src="assets/images/quests/l6.png"/>
+    <file src="assets/images/quests/l7.png"/>
+    <file src="assets/images/quests/l8.png"/>
+    <file src="assets/images/quests/l9.png"/>
+    <file src="assets/images/quests/l10.png"/>
+
+    <file src="assets/images/markers/marker.png"/>
+    <file src="assets/images/markers/marker-b.png"/>
+    <file src="assets/images/markers/marker-c.png"/>
+    <file src="assets/images/markers/marker-c+e.png"/>
+    <file src="assets/images/markers/flag.png"/>
+    <file src="assets/images/markers/marker-l.png"/>
+    <file src="assets/images/markers/marker-l2.png"/>
+    <file src="assets/images/markers/marker-gun.png"/>
+
+    <file src="assets/images/window_praktyka.png"/>
+    <file src="assets/images/circle.png"/>
+    <file src="assets/images/circle_b.png"/>
+    <file src="assets/images/instruktor.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

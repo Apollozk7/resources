@@ -1,0 +1,14 @@
+<meta>
+    <script src="c_pilots.lua" type="client" cache="false" />
+    <script src="s_pilots.lua" type="server" />
+    
+    <file src="textures/bg.png" />
+    <file src="textures/icon.png" />
+    <file src="textures/progress.png" />
+    
+    <export function="action" type="server" />    
+
+    <min_mta_version client="1.5.6-9.14403" />
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

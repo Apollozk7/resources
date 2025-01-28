@@ -1,0 +1,262 @@
+<meta>
+    <!-- SavenQ -->
+    <file src='garaz_przecho'/>
+    <file src='magazyn'/>
+    <file src="7506" /> <!-- przebieralnia -->
+    <file src="2618" /> <!-- bankomat -->
+    <file src='13101'/> <!-- kolizja pc fix -->
+
+    <!-- lampek -->
+    <file src='mech'/> 
+    <file src='8839'/> <!-- salon -->
+    <file src='7526'/> <!-- salon 2 -->
+
+    <!-- sosik -->
+    <file src="components_workshop" />
+
+    <!-- terror -->
+    <file src='8516'/> <!-- tuner -->
+    <file src='8230'/> <!-- osk -->
+    <file src='8954'/> <!-- przecho -->
+    <file src='8472'/> <!-- wjazd przecho -->
+
+    <!-- Payro -->
+    <file src='7489'/> <!-- zajezdnia autobusowa -->
+    <file src="16007" /> <!-- sklep FC -->
+
+    <!-- JOKER -->
+    <file src='wheel_workshop'/>
+    <file src="job_rafineria" />
+    <file src='7494'/> <!-- lights workshop -->
+    <file src="8546" /> <!-- kurier -->
+    <file src="8577" /> <!-- gielda -->
+    <file src='8678'/> <!-- taxi -->
+
+    <!-- sapd -->
+    <file src='7009'/>
+    <file src='3911'/>
+
+    <!-- lotnisko lv -->
+    <file src="7999" />
+    <file src="8039" />
+    <file src="8305" />
+    <file src="8352" />
+    <file src="15043" />
+    <file src='7978'/>
+
+    <!-- wioska area 51 -->
+    <file src='16197'/>
+    <file src='16202'/>
+    <file src='16203'/>
+    <file src='16204'/>
+    <file src='16205'/>
+    <file src='16208'/>
+    <file src='16209'/>
+    <file src='16210'/>
+    <file src='16257'/>
+    <file src='16259'/>
+    <file src='16261'/>
+
+    <!-- domki -->
+    <file src="3902" /> <!-- domek id 1 -->
+    <file src="3919" /> <!-- domek id 1 garaz -->
+    <file src="3907" /> <!-- domek id 2 -->
+    <file src="3906" /> <!-- domek id 2 garaz -->
+
+    <!-- zjazdy kosiarki -->
+    <file src='12829'/>
+    <file src='12866'/>
+    <file src='13095'/>
+    <file src='13147'/>
+    <file src='13149'/>
+    <file src='13345'/>
+
+    <!-- skiny sapd -->
+    <file src="265"/>
+    <file src="285"/>
+    <file src="267"/>
+    <file src="266"/>
+    <file src="284"/>
+
+    <!-- banner -->
+    <file src="7313"/>
+
+    <!-- apsy rockshore -->
+    <file src="8867"/>
+    <file src="8868"/>
+    <file src="8869"/>
+    <file src="klatka"/>
+
+    <!-- urzad -->
+    <file src="8256"/>
+    <file src="8010"/>
+    <file src="7530"/>
+    <file src="7696" />
+
+    <!-- billboard -->
+    <file src="8322"/>
+    
+    <!-- most sf-fc -->
+    <file src="7471" />
+    <file src="7800" />
+    <file src="16190" />
+    <file src="16551" />
+    <file src="16103" />
+    <file src="16553" />
+    <file src="7864" />
+    
+    <!-- skiny sapd -->
+    <file src="280" />
+    <file src="282" />
+    <file src="281" />
+    <file src="71" />
+    
+    <!-- skin kurier -->
+    <file src="155" />
+    
+    <!-- fele -->
+    <file src="1025" />
+    <file src="1073" />
+    <file src="1074" />
+    <file src="1075" />
+    <file src="1076" />
+    <file src="1077" />
+    <file src="1078" />
+    <file src="1079" />
+    <file src="1080" />
+    <file src="1081" />
+    <file src="1082" />
+    <file src="1083" />
+    <file src="1084" />
+    <file src="1085" />
+    <file src="1096" />
+    <file src="1097" />
+    <file src="1098" />
+
+    <!-- sklep lv -->
+    <file src="6977" />
+    
+    <!-- inne -->
+    <file src="prog"/>
+    <file src="kogut_SAPD"/>
+    <file src="3891" /> <!-- apteczka-->
+    <file src="3890" /> <!-- szlugi -->
+    <file src="3005" /> <!-- paczka small -->
+    <file src="3006" /> <!-- paczka big-->
+    <file src="1924" /> <!-- paczkomat -->
+    <file src="1876" /> <!-- taxi kogut -->
+    <file src="7584" /> <!-- visage -->
+    
+    <!-- radio -->
+    <file src="16216" />
+    <file src="16386" />
+    <file src="16423" />
+    <file src="16424" />
+    
+    <!-- rockshore aparts -->
+    <file src="rockshore_apart_1" />
+    <file src="rockshore_apart_2" />
+    <file src="8857" />
+
+    <!-- skiny -->
+    <file src='lakiernik_skin'/>
+    <file src='mechanik_skin'/>
+    <file src='tuner_skin'/>
+
+    <!-- pojazdy -->
+    <file src="admiral"></file>
+    <file src="premier"></file>
+    <file src="sabre"></file>
+    <file src="windsor"></file>
+    <file src="firetruk"></file>
+    <file src="fortune"></file>
+    <file src="sunrise"></file>
+    <file src="yankee"></file>
+    <file src="cheetah"></file>
+    <file src="willard"></file>
+    <file src="stallion"></file>
+    <file src="tampa"></file>
+    <file src="voodoo"></file>
+    <file src="intruder"></file>
+    <file src="infernus"></file>
+    <file src="greenwoo"></file>
+    <file src="bravura"></file>
+    <file src="buffalo"></file>
+    <file src="cement"></file>
+    <file src="packer"></file>
+    <file src="trash"></file>
+    <file src="nebula"></file>
+    <file src="towtruck"></file>
+    <file src="ambulan"></file>
+    <file src="sadler"></file>
+    <file src="linerun"></file>
+    <file src="pony"></file>
+    <file src="burrito"></file>
+    <file src="alpha"></file>
+    <file src="picador"></file>
+    <file src="euros"></file>
+    <file src="police_vg"></file>
+    <file src="elegy"></file>
+    <file src="yosemite"></file>
+    <file src="topfun"></file>
+    <file src="police_sf"></file>
+    <file src="sultan"></file>
+    <file src="police_la"></file>
+    <file src="clover"></file>
+    <file src="blistac"></file>
+    <file src="artict3"></file>
+    <file src="club"></file>
+    <file src="polranger"></file>
+    <file src="mesa"></file>
+    <file src="remingtn"></file>
+    <file src="majestic"></file>
+    <file src="peren"></file>
+    <file src="moonbeam"></file>
+    <file src="elegant"></file>
+    <file src="zr350"></file>
+    <file src="broadway"></file>
+    <file src="phoenix"></file>
+    <file src="dune"></file>
+    <file src="rdtrain"></file>
+    <file src="savanna"></file>
+    <file src="petrol"></file>
+    <file src="cabbie"></file>
+    <file src="landstal"></file>
+    <file src="primo"></file>
+    <file src="tahoma"></file>
+    <file src="flash"></file>
+    <file src="stratum"></file>
+    <file src="bobcat"></file>
+    <file src="uranus"></file>
+    <file src="jester"></file>
+    <file src="sentinel"></file>
+    <file src="turismo"></file>
+    <file src="blade"></file>
+    <file src="bullet"></file>
+    <file src="vincent"></file>
+    <file src="firela"></file>
+    <file src="comet"></file>
+    <file src="solair"></file>
+    <file src="slamvan"></file>
+    <file src="newsvan"></file>
+    <file src="artict1"></file>
+    <file src="boxville"></file>
+    <file src="banshee"></file>
+    <file src="feltzer"></file>
+    <file src="tractor"></file>
+    <file src="boxburg"></file>
+    <file src="rumpo"></file>
+    <file src="dft30"></file>
+    <file src="artict2"></file>
+    <file src="cadrona"></file>
+    <file src="petrotr"></file>
+    <file src="forklift"></file>
+    <file src="walton"></file>
+    <file src="supergt"></file>
+    <file src="huntley"></file>
+    <file src="manana"></file>
+    <file src="flatbed"></file>
+    <file src="coach"></file>
+    <file src="barracks"></file>
+    <file src="previon"></file>
+</meta>

@@ -1,0 +1,575 @@
+<meta>
+    <include resource="blur"/>
+    <include resource="px_alogos"/>
+    <include resource="px_avatars"/>
+    <include resource="px_noti"/>
+    <include resource="px_scroll"/>
+    <include resource="px_interaction"/>
+    <include resource="object_preview"/>
+    <include resource="px_buttons"/>
+    <include resource="px_scroll"/>
+    <include resource="px_editbox"/>
+    <include resource="px_map"/>
+
+    <!-- menu -->
+    <script src="c_assets.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/bar_4.png"/>
+    <file src="textures/bar_5.png"/>
+    <file src="textures/bar_6.png"/>
+    <file src="textures/bar_7.png"/>
+    <file src="textures/bar_8.png"/>
+    <file src="textures/bar_9.png"/>
+
+    <file src="textures/left_selected.png"/>
+
+    <file src="textures/friends.png"/>
+    <file src="textures/avatar.png"/>
+
+    <file src="textures/invite_accept.png"/>
+    <file src="textures/invite_cancel.png"/>
+    <file src="textures/delete.png"/>
+
+    <export function="updatePanel" type="server"/>
+    <export function="loadClubAvatarFromIPS" type="server"/>
+
+    <!-- profile -->
+    <script src="lua/profile.lua" type="client" cache="false"/>
+
+    <file src="textures/1/bg.png"/>
+    <file src="textures/1/bg_line.png"/>
+    <file src="textures/1/avatar_bg.png"/>
+    <file src="textures/1/mini-row.png"/>
+    <file src="textures/1/big-row.png"/>
+    <file src="textures/1/circle.png"/>
+    <file src="textures/1/circle-outline.png"/>
+    <file src="textures/1/pj-a.png"/>
+    <file src="textures/1/pj-b.png"/>
+    <file src="textures/1/pj-c.png"/>
+    <file src="textures/1/pj-ce.png"/>
+    <file src="textures/1/pj-l.png"/>
+    <file src="textures/1/pj-gun.png"/>
+    <file src="textures/1/money_with.png"/>
+    <file src="textures/1/bank_money.png"/>
+    <file src="textures/1/all_cars.png"/>
+    <file src="textures/1/all_houses.png"/>
+
+    <!-- vehs -->
+    <script src="lua/vehs.lua" type="client" cache="false"/>
+
+    <file src="textures/2/bg.png"/>
+    <file src="textures/2/share.png"/>
+    <file src="textures/2/row.png"/>
+    <file src="textures/2/holder.png"/>
+    <file src="textures/2/button.png"/>
+
+    <!-- invites -->
+    <script src="lua/invites.lua" type="client" cache="false"/>
+
+    <file src="textures/3/bg.png"/>
+    <file src="textures/3/row.png"/>
+    <file src="textures/3/icon.png"/>
+    <file src="textures/3/copy.png"/>
+
+    <!-- achievements -->
+    <script src="lua/achievements.lua" type="client" cache="false"/>
+
+    <file src="textures/4/bg.png"/>
+    <file src="textures/4/icon.png"/>
+
+    <!-- guide -->
+    <script src="lua/guide.lua" type="client" cache="false"/>
+
+    <file src="textures/5/button.png"/>
+    <file src="textures/5/circle.png"/>
+
+    <file src="textures/5/1.png"/>
+    <file src="textures/5/2.png"/>
+    <file src="textures/5/4.png"/>
+    <file src="textures/5/5.png"/>
+    <file src="textures/5/6.png"/>
+    <file src="textures/5/7.png"/>
+    <file src="textures/5/8.png"/>
+    <file src="textures/5/9.png"/>
+    <file src="textures/5/10.png"/>
+
+    <!-- settings -->
+    <script src="lua/settings.lua" type="client" cache="false"/>
+
+    <file src="textures/6/line.png"/>
+    <file src="textures/6/btn.png"/>
+
+    <!-- misc shop -->
+    <script src="lua/misc_shop.lua" type="client" cache="false"/>
+
+    <file src="textures/7/pp.png"/>
+    <file src="textures/7/random_1.png"/>
+    <file src="textures/7/random_2.png"/>
+    <file src="textures/7/random_icon.png"/>
+    <file src="textures/7/button.png"/>
+    <file src="textures/7/elipse.png"/>
+    <file src="textures/7/elipse_center.png"/>
+
+    <!-- premium -->
+    <script src="lua/premium.lua" type="client" cache="false"/>
+
+    <file src="textures/8/row.png"/>
+    <file src="textures/8/bg_sms.png"/>
+    <file src="textures/8/checkbox.png"/>
+    <file src="textures/8/checkbox_selected.png"/>
+    <file src="textures/8/bg_premium.png"/>
+    <file src="textures/8/bg_gold.png"/>
+    <file src="textures/8/corona.png"/>
+    <file src="textures/8/bg_sell.png"/>
+    <file src="textures/8/edit.png"/>
+
+    <!-- bonus -->
+    <script src="lua/bonus.lua" type="client" cache="false"/>
+
+    <file src="textures/9/bg.png"/>
+    <file src="textures/9/shadow.png"/>
+    <file src="textures/9/exp.png"/>
+    <file src="textures/9/money.png"/>
+    <file src="textures/9/pp.png"/>
+    <file src="textures/9/hide.png"/>
+
+    <!-- skins -->
+    <file src="textures/skins/0.png"/>
+    <file src="textures/skins/1.png"/>
+    <file src="textures/skins/10.png"/>
+    <file src="textures/skins/100.png"/>
+    <file src="textures/skins/101.png"/>
+    <file src="textures/skins/102.png"/>
+    <file src="textures/skins/103.png"/>
+    <file src="textures/skins/104.png"/>
+    <file src="textures/skins/105.png"/>
+    <file src="textures/skins/106.png"/>
+    <file src="textures/skins/107.png"/>
+    <file src="textures/skins/108.png"/>
+    <file src="textures/skins/109.png"/>
+    <file src="textures/skins/11.png"/>
+    <file src="textures/skins/110.png"/>
+    <file src="textures/skins/111.png"/>
+    <file src="textures/skins/112.png"/>
+    <file src="textures/skins/113.png"/>
+    <file src="textures/skins/114.png"/>
+    <file src="textures/skins/115.png"/>
+    <file src="textures/skins/116.png"/>
+    <file src="textures/skins/117.png"/>
+    <file src="textures/skins/118.png"/>
+    <file src="textures/skins/12.png"/>
+    <file src="textures/skins/120.png"/>
+    <file src="textures/skins/121.png"/>
+    <file src="textures/skins/122.png"/>
+    <file src="textures/skins/123.png"/>
+    <file src="textures/skins/124.png"/>
+    <file src="textures/skins/125.png"/>
+    <file src="textures/skins/126.png"/>
+    <file src="textures/skins/127.png"/>
+    <file src="textures/skins/128.png"/>
+    <file src="textures/skins/129.png"/>
+    <file src="textures/skins/13.png"/>
+    <file src="textures/skins/130.png"/>
+    <file src="textures/skins/131.png"/>
+    <file src="textures/skins/132.png"/>
+    <file src="textures/skins/133.png"/>
+    <file src="textures/skins/134.png"/>
+    <file src="textures/skins/135.png"/>
+    <file src="textures/skins/136.png"/>
+    <file src="textures/skins/137.png"/>
+    <file src="textures/skins/138.png"/>
+    <file src="textures/skins/139.png"/>
+    <file src="textures/skins/14.png"/>
+    <file src="textures/skins/140.png"/>
+    <file src="textures/skins/141.png"/>
+    <file src="textures/skins/142.png"/>
+    <file src="textures/skins/143.png"/>
+    <file src="textures/skins/144.png"/>
+    <file src="textures/skins/145.png"/>
+    <file src="textures/skins/146.png"/>
+    <file src="textures/skins/147.png"/>
+    <file src="textures/skins/148.png"/>
+    <file src="textures/skins/15.png"/>
+    <file src="textures/skins/150.png"/>
+    <file src="textures/skins/151.png"/>
+    <file src="textures/skins/152.png"/>
+    <file src="textures/skins/153.png"/>
+    <file src="textures/skins/154.png"/>
+    <file src="textures/skins/155.png"/>
+    <file src="textures/skins/156.png"/>
+    <file src="textures/skins/157.png"/>
+    <file src="textures/skins/158.png"/>
+    <file src="textures/skins/159.png"/>
+    <file src="textures/skins/16.png"/>
+    <file src="textures/skins/160.png"/>
+    <file src="textures/skins/161.png"/>
+    <file src="textures/skins/162.png"/>
+    <file src="textures/skins/163.png"/>
+    <file src="textures/skins/164.png"/>
+    <file src="textures/skins/165.png"/>
+    <file src="textures/skins/166.png"/>
+    <file src="textures/skins/167.png"/>
+    <file src="textures/skins/168.png"/>
+    <file src="textures/skins/169.png"/>
+    <file src="textures/skins/17.png"/>
+    <file src="textures/skins/170.png"/>
+    <file src="textures/skins/171.png"/>
+    <file src="textures/skins/172.png"/>
+    <file src="textures/skins/173.png"/>
+    <file src="textures/skins/174.png"/>
+    <file src="textures/skins/175.png"/>
+    <file src="textures/skins/176.png"/>
+    <file src="textures/skins/177.png"/>
+    <file src="textures/skins/178.png"/>
+    <file src="textures/skins/179.png"/>
+    <file src="textures/skins/18.png"/>
+    <file src="textures/skins/180.png"/>
+    <file src="textures/skins/181.png"/>
+    <file src="textures/skins/182.png"/>
+    <file src="textures/skins/183.png"/>
+    <file src="textures/skins/184.png"/>
+    <file src="textures/skins/185.png"/>
+    <file src="textures/skins/186.png"/>
+    <file src="textures/skins/187.png"/>
+    <file src="textures/skins/188.png"/>
+    <file src="textures/skins/189.png"/>
+    <file src="textures/skins/19.png"/>
+    <file src="textures/skins/190.png"/>
+    <file src="textures/skins/191.png"/>
+    <file src="textures/skins/192.png"/>
+    <file src="textures/skins/193.png"/>
+    <file src="textures/skins/194.png"/>
+    <file src="textures/skins/195.png"/>
+    <file src="textures/skins/196.png"/>
+    <file src="textures/skins/197.png"/>
+    <file src="textures/skins/198.png"/>
+    <file src="textures/skins/199.png"/>
+    <file src="textures/skins/2.png"/>
+    <file src="textures/skins/20.png"/>
+    <file src="textures/skins/200.png"/>
+    <file src="textures/skins/201.png"/>
+    <file src="textures/skins/202.png"/>
+    <file src="textures/skins/203.png"/>
+    <file src="textures/skins/204.png"/>
+    <file src="textures/skins/205.png"/>
+    <file src="textures/skins/206.png"/>
+    <file src="textures/skins/207.png"/>
+    <file src="textures/skins/209.png"/>
+    <file src="textures/skins/21.png"/>
+    <file src="textures/skins/210.png"/>
+    <file src="textures/skins/211.png"/>
+    <file src="textures/skins/212.png"/>
+    <file src="textures/skins/213.png"/>
+    <file src="textures/skins/214.png"/>
+    <file src="textures/skins/215.png"/>
+    <file src="textures/skins/216.png"/>
+    <file src="textures/skins/217.png"/>
+    <file src="textures/skins/218.png"/>
+    <file src="textures/skins/219.png"/>
+    <file src="textures/skins/22.png"/>
+    <file src="textures/skins/220.png"/>
+    <file src="textures/skins/221.png"/>
+    <file src="textures/skins/222.png"/>
+    <file src="textures/skins/223.png"/>
+    <file src="textures/skins/224.png"/>
+    <file src="textures/skins/225.png"/>
+    <file src="textures/skins/226.png"/>
+    <file src="textures/skins/227.png"/>
+    <file src="textures/skins/228.png"/>
+    <file src="textures/skins/229.png"/>
+    <file src="textures/skins/23.png"/>
+    <file src="textures/skins/230.png"/>
+    <file src="textures/skins/231.png"/>
+    <file src="textures/skins/232.png"/>
+    <file src="textures/skins/233.png"/>
+    <file src="textures/skins/234.png"/>
+    <file src="textures/skins/235.png"/>
+    <file src="textures/skins/236.png"/>
+    <file src="textures/skins/237.png"/>
+    <file src="textures/skins/238.png"/>
+    <file src="textures/skins/239.png"/>
+    <file src="textures/skins/24.png"/>
+    <file src="textures/skins/240.png"/>
+    <file src="textures/skins/241.png"/>
+    <file src="textures/skins/242.png"/>
+    <file src="textures/skins/243.png"/>
+    <file src="textures/skins/244.png"/>
+    <file src="textures/skins/245.png"/>
+    <file src="textures/skins/246.png"/>
+    <file src="textures/skins/247.png"/>
+    <file src="textures/skins/248.png"/>
+    <file src="textures/skins/249.png"/>
+    <file src="textures/skins/25.png"/>
+    <file src="textures/skins/250.png"/>
+    <file src="textures/skins/251.png"/>
+    <file src="textures/skins/252.png"/>
+    <file src="textures/skins/253.png"/>
+    <file src="textures/skins/254.png"/>
+    <file src="textures/skins/255.png"/>
+    <file src="textures/skins/256.png"/>
+    <file src="textures/skins/257.png"/>
+    <file src="textures/skins/258.png"/>
+    <file src="textures/skins/259.png"/>
+    <file src="textures/skins/26.png"/>
+    <file src="textures/skins/260.png"/>
+    <file src="textures/skins/261.png"/>
+    <file src="textures/skins/262.png"/>
+    <file src="textures/skins/263.png"/>
+    <file src="textures/skins/264.png"/>
+    <file src="textures/skins/265.png"/>
+    <file src="textures/skins/266.png"/>
+    <file src="textures/skins/267.png"/>
+    <file src="textures/skins/268.png"/>
+    <file src="textures/skins/269.png"/>
+    <file src="textures/skins/27.png"/>
+    <file src="textures/skins/270.png"/>
+    <file src="textures/skins/271.png"/>
+    <file src="textures/skins/272.png"/>
+    <file src="textures/skins/274.png"/>
+    <file src="textures/skins/275.png"/>
+    <file src="textures/skins/276.png"/>
+    <file src="textures/skins/277.png"/>
+    <file src="textures/skins/278.png"/>
+    <file src="textures/skins/279.png"/>
+    <file src="textures/skins/28.png"/>
+    <file src="textures/skins/280.png"/>
+    <file src="textures/skins/281.png"/>
+    <file src="textures/skins/282.png"/>
+    <file src="textures/skins/283.png"/>
+    <file src="textures/skins/284.png"/>
+    <file src="textures/skins/285.png"/>
+    <file src="textures/skins/286.png"/>
+    <file src="textures/skins/287.png"/>
+    <file src="textures/skins/288.png"/>
+    <file src="textures/skins/29.png"/>
+    <file src="textures/skins/290.png"/>
+    <file src="textures/skins/291.png"/>
+    <file src="textures/skins/292.png"/>
+    <file src="textures/skins/293.png"/>
+    <file src="textures/skins/294.png"/>
+    <file src="textures/skins/295.png"/>
+    <file src="textures/skins/296.png"/>
+    <file src="textures/skins/297.png"/>
+    <file src="textures/skins/298.png"/>
+    <file src="textures/skins/299.png"/>
+    <file src="textures/skins/30.png"/>
+    <file src="textures/skins/300.png"/>
+    <file src="textures/skins/301.png"/>
+    <file src="textures/skins/302.png"/>
+    <file src="textures/skins/303.png"/>
+    <file src="textures/skins/304.png"/>
+    <file src="textures/skins/305.png"/>
+    <file src="textures/skins/306.png"/>
+    <file src="textures/skins/307.png"/>
+    <file src="textures/skins/308.png"/>
+    <file src="textures/skins/309.png"/>
+    <file src="textures/skins/31.png"/>
+    <file src="textures/skins/310.png"/>
+    <file src="textures/skins/311.png"/>
+    <file src="textures/skins/312.png"/>
+    <file src="textures/skins/32.png"/>
+    <file src="textures/skins/33.png"/>
+    <file src="textures/skins/34.png"/>
+    <file src="textures/skins/35.png"/>
+    <file src="textures/skins/36.png"/>
+    <file src="textures/skins/37.png"/>
+    <file src="textures/skins/38.png"/>
+    <file src="textures/skins/39.png"/>
+    <file src="textures/skins/40.png"/>
+    <file src="textures/skins/41.png"/>
+    <file src="textures/skins/43.png"/>
+    <file src="textures/skins/44.png"/>
+    <file src="textures/skins/45.png"/>
+    <file src="textures/skins/46.png"/>
+    <file src="textures/skins/47.png"/>
+    <file src="textures/skins/48.png"/>
+    <file src="textures/skins/49.png"/>
+    <file src="textures/skins/50.png"/>
+    <file src="textures/skins/51.png"/>
+    <file src="textures/skins/52.png"/>
+    <file src="textures/skins/53.png"/>
+    <file src="textures/skins/54.png"/>
+    <file src="textures/skins/55.png"/>
+    <file src="textures/skins/56.png"/>
+    <file src="textures/skins/57.png"/>
+    <file src="textures/skins/58.png"/>
+    <file src="textures/skins/59.png"/>
+    <file src="textures/skins/60.png"/>
+    <file src="textures/skins/61.png"/>
+    <file src="textures/skins/62.png"/>
+    <file src="textures/skins/63.png"/>
+    <file src="textures/skins/64.png"/>
+    <file src="textures/skins/66.png"/>
+    <file src="textures/skins/67.png"/>
+    <file src="textures/skins/68.png"/>
+    <file src="textures/skins/69.png"/>
+    <file src="textures/skins/7.png"/>
+    <file src="textures/skins/70.png"/>
+    <file src="textures/skins/71.png"/>
+    <file src="textures/skins/72.png"/>
+    <file src="textures/skins/73.png"/>
+    <file src="textures/skins/75.png"/>
+    <file src="textures/skins/76.png"/>
+    <file src="textures/skins/77.png"/>
+    <file src="textures/skins/78.png"/>
+    <file src="textures/skins/79.png"/>
+    <file src="textures/skins/80.png"/>
+    <file src="textures/skins/81.png"/>
+    <file src="textures/skins/82.png"/>
+    <file src="textures/skins/83.png"/>
+    <file src="textures/skins/84.png"/>
+    <file src="textures/skins/85.png"/>
+    <file src="textures/skins/87.png"/>
+    <file src="textures/skins/88.png"/>
+    <file src="textures/skins/89.png"/>
+    <file src="textures/skins/9.png"/>
+    <file src="textures/skins/90.png"/>
+    <file src="textures/skins/91.png"/>
+    <file src="textures/skins/92.png"/>
+    <file src="textures/skins/93.png"/>
+    <file src="textures/skins/94.png"/>
+    <file src="textures/skins/95.png"/>
+    <file src="textures/skins/96.png"/>
+    <file src="textures/skins/97.png"/>
+    <file src="textures/skins/98.png"/>
+    <file src="textures/skins/99.png"/>
+
+    <file src="vehicles/400.png"/>
+    <file src="vehicles/401.png"/>
+    <file src="vehicles/402.png"/>
+    <file src="vehicles/403.png"/>
+    <file src="vehicles/404.png"/>
+    <file src="vehicles/405.png"/>
+    <file src="vehicles/409.png"/>
+    <file src="vehicles/410.png"/>
+    <file src="vehicles/411.png"/>
+    <file src="vehicles/412.png"/>
+    <file src="vehicles/413.png"/>
+    <file src="vehicles/414.png"/>
+    <file src="vehicles/415.png"/>
+    <file src="vehicles/418.png"/>
+    <file src="vehicles/419.png"/>
+    <file src="vehicles/420.png"/>
+    <file src="vehicles/421.png"/>
+    <file src="vehicles/422.png"/>
+    <file src="vehicles/423.png"/>
+    <file src="vehicles/424.png"/>
+    <file src="vehicles/426.png"/>
+    <file src="vehicles/429.png"/>
+    <file src="vehicles/430.png"/>
+    <file src="vehicles/431.png"/>
+    <file src="vehicles/434.png"/>
+    <file src="vehicles/436.png"/>
+    <file src="vehicles/437.png"/>
+    <file src="vehicles/438.png"/>
+    <file src="vehicles/439.png"/>
+    <file src="vehicles/440.png"/>
+    <file src="vehicles/442.png"/>
+    <file src="vehicles/443.png"/>
+    <file src="vehicles/445.png"/>
+    <file src="vehicles/446.png"/>
+    <file src="vehicles/447.png"/>
+    <file src="vehicles/451.png"/>
+    <file src="vehicles/454.png"/>
+    <file src="vehicles/457.png"/>
+    <file src="vehicles/458.png"/>
+    <file src="vehicles/460.png"/>
+    <file src="vehicles/466.png"/>
+    <file src="vehicles/467.png"/>
+    <file src="vehicles/469.png"/>
+    <file src="vehicles/470.png"/>
+    <file src="vehicles/473.png"/>
+    <file src="vehicles/474.png"/>
+    <file src="vehicles/475.png"/>
+    <file src="vehicles/476.png"/>
+    <file src="vehicles/477.png"/>
+    <file src="vehicles/478.png"/>
+    <file src="vehicles/479.png"/>
+    <file src="vehicles/480.png"/>
+    <file src="vehicles/482.png"/>
+    <file src="vehicles/483.png"/>
+    <file src="vehicles/484.png"/>
+    <file src="vehicles/487.png"/>
+    <file src="vehicles/489.png"/>
+    <file src="vehicles/490.png"/>
+    <file src="vehicles/491.png"/>
+    <file src="vehicles/492.png"/>
+    <file src="vehicles/493.png"/>
+    <file src="vehicles/495.png"/>
+    <file src="vehicles/496.png"/>
+    <file src="vehicles/498.png"/>
+    <file src="vehicles/500.png"/>
+    <file src="vehicles/502.png"/>
+    <file src="vehicles/503.png"/>
+    <file src="vehicles/504.png"/>
+    <file src="vehicles/505.png"/>
+    <file src="vehicles/506.png"/>
+    <file src="vehicles/507.png"/>
+    <file src="vehicles/508.png"/>
+    <file src="vehicles/511.png"/>
+    <file src="vehicles/513.png"/>
+    <file src="vehicles/514.png"/>
+    <file src="vehicles/516.png"/>
+    <file src="vehicles/517.png"/>
+    <file src="vehicles/518.png"/>
+    <file src="vehicles/519.png"/>
+    <file src="vehicles/526.png"/>
+    <file src="vehicles/527.png"/>
+    <file src="vehicles/529.png"/>
+    <file src="vehicles/533.png"/>
+    <file src="vehicles/534.png"/>
+    <file src="vehicles/535.png"/>
+    <file src="vehicles/536.png"/>
+    <file src="vehicles/538.png"/>
+    <file src="vehicles/539.png"/>
+    <file src="vehicles/540.png"/>
+    <file src="vehicles/541.png"/>
+    <file src="vehicles/542.png"/>
+    <file src="vehicles/543.png"/>
+    <file src="vehicles/545.png"/>
+    <file src="vehicles/546.png"/>
+    <file src="vehicles/547.png"/>
+    <file src="vehicles/549.png"/>
+    <file src="vehicles/550.png"/>
+    <file src="vehicles/551.png"/>
+    <file src="vehicles/554.png"/>
+    <file src="vehicles/555.png"/>
+    <file src="vehicles/558.png"/>
+    <file src="vehicles/559.png"/>
+    <file src="vehicles/560.png"/>
+    <file src="vehicles/561.png"/>
+    <file src="vehicles/562.png"/>
+    <file src="vehicles/565.png"/>
+    <file src="vehicles/566.png"/>
+    <file src="vehicles/567.png"/>
+    <file src="vehicles/568.png"/>
+    <file src="vehicles/571.png"/>
+    <file src="vehicles/575.png"/>
+    <file src="vehicles/576.png"/>
+    <file src="vehicles/579.png"/>
+    <file src="vehicles/580.png"/>
+    <file src="vehicles/582.png"/>
+    <file src="vehicles/585.png"/>
+    <file src="vehicles/586.png"/>
+    <file src="vehicles/587.png"/>
+    <file src="vehicles/588.png"/>
+    <file src="vehicles/589.png"/>
+    <file src="vehicles/593.png"/>
+    <file src="vehicles/599.png"/>
+    <file src="vehicles/600.png"/>
+    <file src="vehicles/602.png"/>
+    <file src="vehicles/603.png"/>
+
+    <min_mta_version client="1.5.6" server="1.5.6" />
+
+    <export function="getSettingState" type="shared"/>
+    <export function="setPlayerFriendsData" type="server"/>
+
+    <download_priority_group>75</download_priority_group>
+</meta>

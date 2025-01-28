@@ -1,0 +1,21 @@
+<meta>
+    <script src="client/client_duty.lua" type="client" cache="false"/>
+    <script src="server/server_duty.lua" type="server"/>
+    <script src="server/server_admin.lua" type="server"/>
+
+    <file src="assets/images/window.png"/>
+    <file src="assets/images/window_icon.png"/>
+    <file src="assets/images/wyplata.png"/>
+    <file src="assets/images/ranga.png"/>
+    <file src="assets/images/button_close.png"/>
+    <file src="assets/images/button_start.png"/>
+    <file src="assets/images/markerStart.png"/>
+
+    <export function="isPlayerInFaction" type="server"/>
+    <export function="getPlayerRank" type="server"/>
+    <export function="getPayment" type="server"/>
+    <export function="isPlayerHaveAccess" type="server"/>
+    <export function="isPlayerHaveRole" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

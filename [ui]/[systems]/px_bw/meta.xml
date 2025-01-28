@@ -1,0 +1,11 @@
+<meta>
+    <script src="c_bw.lua" type="client" cache="false"/>
+    <script src="c_unbw.lua" type="client" cache="false"/>
+    <script src="s_bw.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/star.png"/>
+
+    <export function="action" type="client"/>
+    <download_priority_group>-1</download_priority_group>
+</meta>

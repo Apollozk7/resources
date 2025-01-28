@@ -1,0 +1,15 @@
+<meta>
+    <file src="images/bg.png"/>
+    <file src="images/close.png"/>
+    <file src="images/icon_bg.png"/>
+    <file src="images/icon_destination.png"/>
+    <file src="images/icon_location.png"/>
+    <file src="images/icon_route.png"/>
+    <file src="images/button-minus.png"/>
+    <file src="images/button-plus.png"/>
+    <file src="fonts/Font-Regular.ttf"/>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client" cache="false"/>
+    <export function="addNewReport" type="server"/>
+    <oop>true</oop>
+</meta>

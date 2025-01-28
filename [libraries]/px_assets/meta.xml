@@ -1,0 +1,10 @@
+<meta>
+    <file src="fonts/Font-Light.ttf"/>
+    <file src="fonts/Font-Regular.ttf"/>
+    <file src="fonts/Font-Medium.ttf"/>
+    <file src="fonts/Font-SemiBold.ttf"/>
+    <file src="fonts/Font-Bold.ttf"/>
+    <file src="fonts/Font-ExtraBold.ttf"/>
+
+    <download_priority_group>999999</download_priority_group>
+</meta>

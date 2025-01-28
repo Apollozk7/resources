@@ -1,0 +1,15 @@
+<meta>
+    <script src="c_mk1.lua" type="client" cache="false"/>
+    <script src="s_mk1.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/progress.png"/>
+    <file src="textures/suwak.png"/>
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+    <file src="textures/line.png"/>
+
+    <file src="textures/mk1.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

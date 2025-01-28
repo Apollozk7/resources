@@ -1,0 +1,11 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <file src="assets/biggrunge.jpg"/>
+    <file src="assets/defaultgrunge.jpg"/>
+    <file src="assets/lowgrunge.jpg"/>
+    <file src="assets/megagrunge.jpg"/>
+    <file src="assets/nogrunge.jpg"/>
+
+    <file src="assets/textureReplace.fx"/>
+</meta>

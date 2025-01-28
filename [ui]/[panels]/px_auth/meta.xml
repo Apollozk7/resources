@@ -1,0 +1,48 @@
+<meta>
+    <script src="c_usefuls.lua" type="client" cache="false"/>
+    <script src="c_save.lua" type="client" cache="false"/>
+    <script src="c_base.lua" type="client" cache="false"/>
+    <script src="c_login.lua" type="client" cache="false"/>
+    <script src="c_news.lua" type="client" cache="false"/>
+    <script src="c_register.lua" type="client" cache="false"/>
+    <script src="c_zones.lua" type="client" cache="false"/>
+    <script src="s_base.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+
+    <file src="textures/button.png"/>
+    <file src="textures/shadow_button.png"/>
+    <file src="textures/login_button.png"/>
+    <file src="textures/register_button.png"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/avatar.png"/>
+
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+
+    <file src="textures/button_icon.png"/>
+    <file src="textures/login_edit.png"/>
+    <file src="textures/password_edit.png"/>
+    <file src="textures/mail_edit.png"/>
+
+    <file src="textures/zones/map_shadow.png"/>
+    <file src="textures/zones/placeholder.png"/>
+    <file src="textures/zones/card-back.png"/>
+    <file src="textures/zones/card.png"/>
+    <file src="textures/zones/button_hover.png"/>
+    <file src="textures/zones/lv-icon.png"/>
+
+    <file src="textures/news_bg.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/plus.png"/>
+    <file src="textures/new_bg.png"/>
+    <file src="textures/new.png"/>
+
+    <file src="sounds/music.mp3"/>
+    <file src="sounds/ban.mp3"/>
+
+    <download_priority_group>-10</download_priority_group>
+
+    <min_mta_version server="1.5.8" client="1.5.8"></min_mta_version>
+</meta>

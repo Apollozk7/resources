@@ -1,0 +1,19 @@
+﻿<meta>
+	<script src="script.lua" type="client" cache="false"/>
+
+	<file src="files/door1.txd"/>
+	<file src="files/door1.dff"/>
+	<file src="files/door1.col"/>
+	<file src="files/door2.txd"/>
+	<file src="files/door2.dff"/>
+	<file src="files/door2.col"/>
+	<file src="files/door3.txd"/>
+	<file src="files/door3.dff"/>
+	<file src="files/door3.col"/>
+	<file src="files/door4.txd"/>
+	<file src="files/door4.dff"/>
+	<file src="files/door4.col"/>
+	<file src="files/door5.txd"/>
+	<file src="files/door5.dff"/>
+	<file src="files/door5.col"/>
+</meta>

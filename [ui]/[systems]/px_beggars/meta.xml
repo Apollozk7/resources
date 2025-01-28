@@ -1,0 +1,16 @@
+<meta>
+    <script src="server/server_beggars.lua" type="server"/>
+    <script src="client/client_beggars.lua" type="client" cache="false"/>
+
+    <export function="action" type="client"/>
+
+    <file src="assets/images/button.png"/>
+    <file src="assets/images/close.png"/>
+    <file src="assets/images/edit.png"/>
+    <file src="assets/images/hajs.png"/>
+    <file src="assets/images/window.png"/>
+
+    <file src="assets/sound/dejno5zl.wav"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

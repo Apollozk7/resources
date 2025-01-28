@@ -1,0 +1,18 @@
+<meta>
+    <script src="c_signals.lua" type="client" cache="false"/>
+
+    <file src="sounds/sapd/1.wav"/>
+    <file src="sounds/sapd/2.wav"/>
+    <file src="sounds/sapd/3.wav"/>
+    <file src="sounds/sapd/4.wav"/>
+    <file src="sounds/sapd/5.wav"/>
+    <file src="sounds/sapd/6.wav"/>
+
+    <file src="sounds/psp/1.mp3"/>
+    <file src="sounds/psp/2.mp3"/>
+    <file src="sounds/psp/3.mp3"/>
+    <file src="sounds/psp/4.mp3"/>
+    <file src="sounds/psp/5.mp3"/>
+    <file src="sounds/psp/6.mp3"/>
+    <file src="sounds/psp/n.mp3"/>
+</meta>

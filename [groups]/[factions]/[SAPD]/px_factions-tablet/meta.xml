@@ -1,0 +1,27 @@
+<meta>
+    <script src="s_tablet.lua" type="server"/>
+    <script src="c_tablet.lua" type="client" cache="false"/>
+
+    <file src="textures/tablet.png"/>
+    <file src="textures/logo.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/star_black.png"/>
+    <file src="textures/star.png"/>
+    <file src="textures/gridlist.png"/>
+    <file src="textures/list.png"/>
+    <file src="textures/button_right.png"/>
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/player_skin_bg.png"/>
+
+    <file src="textures/button_icon.png"/>
+    <file src="textures/button_close.png"/>
+    <file src="textures/button_back.png"/>
+    <file src="textures/search_icon.png"/>
+
+    <export function="giveMandate" type="server"/>
+    <export function="getPlayerMandates" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

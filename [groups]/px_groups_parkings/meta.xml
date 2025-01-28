@@ -1,0 +1,12 @@
+<meta>
+    <script src="s_parking.lua" type="server"/>
+    <script src="c_parking.lua" type="client" cache="false"/>
+
+    <file src="textures/header.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/choose.png"/>
+    <file src="textures/window.png"/>
+    <file src="textures/garageMarker.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

@@ -1,0 +1,16 @@
+<meta>
+	<include resource="px_dashboard"/>
+
+	<script src="snow.lua" type="client" cache="false"/>
+
+  	<file src="smallnoise3d.dds" type="client" />
+	<file src="snow_ground.fx" type="client" />
+	<file src="snow_trees.fx" type="client" />
+	<file src="snow_naughty_trees.fx" type="client" />
+	<file src="mta-helper.fx" type="client" />
+
+	<file src="flakes/cartoon_tile.png"/>
+	<file src="flakes/real_tile.png"/>
+
+	<download_priority_group>-1</download_priority_group>
+</meta>

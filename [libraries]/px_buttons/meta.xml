@@ -1,0 +1,20 @@
+<meta>
+    <script src="client/buttons_client.lua" type="client" cache="false"/>
+
+    <file src="assets/images/circle.png"/>
+    <file src="assets/images/button_1.png"/>
+    <file src="assets/images/button_2.png"/>
+    <file src="assets/images/line.png"/>
+
+    <file src="assets/sounds/hover.mp3"/>
+    <file src="assets/sounds/click.mp3"/>
+
+    <export function="createButton" type="client"/>
+    <export function="destroyButton" type="client"/>
+    <export function="buttonSetAlpha" type="client"/>
+    <export function="buttonSetPosition" type="client"/>
+    <export function="buttonSetText" type="client"/>
+    <export function="buttonSetColor" type="client"/>
+
+    <download_priority_group>9999999999999999999999999999999999999999999</download_priority_group>
+</meta>

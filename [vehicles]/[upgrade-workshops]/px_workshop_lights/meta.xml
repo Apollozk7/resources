@@ -1,0 +1,19 @@
+<meta>
+    <script src="c_lights.lua" type="client" cache="false"/>
+    <script src="s_lights.lua" type="server"/>
+
+    <file src="textures/right_button.png"/>
+    <file src="textures/right_button_light.png"/>
+    <file src="textures/middle_bg.png"/>
+    <file src="textures/enter_button.png"/>
+    <file src="textures/x_button.png"/>
+
+    <file src="textures/elipse.png"/>
+    <file src="textures/elipse_border.png"/>
+
+    <file src="textures/bg.png"/>
+
+    <export function="getMultiLEDColors" type="client"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

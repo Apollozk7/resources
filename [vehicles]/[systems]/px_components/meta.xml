@@ -1,0 +1,10 @@
+<meta>
+    <script src="list.lua" type="client" cache="false"/>
+    <script src="c_components.lua" type="client" cache="false"/>
+
+    <export function="addVehicleComponent" type="client"/>
+    <export function="getVehicleComponents" type="client"/>
+    
+    <export function="setVehicleClientComponent" type="client"/>
+    <export function="addVehicleClientComponent" type="client"/>
+</meta>

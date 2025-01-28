@@ -1,0 +1,15 @@
+<meta>
+    <script src="c_avatars.lua" type="client" cache="false"/>
+    <script src="s_avatars.lua" type="server"/>
+
+    <file src="textures/circle_avatar.png"/>
+
+    <file src="shaders/tex_matrix.fx"/>
+    <file src="shaders/hud_mask.fx"/>
+
+    <export function="getPlayerAvatar" type="client"/>
+    <export function="getCircleTexture" type="client"/>
+    <export function="getAvatar" type="server"/>
+
+    <download_priority_group>200</download_priority_group>
+</meta>

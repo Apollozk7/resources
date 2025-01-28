@@ -1,0 +1,26 @@
+<meta>
+    <script src="c.lua" type="client" cache="false" />    
+
+    <file src="textures/off.png" />
+    <file src="textures/eska_off.png" />
+    <file src="textures/eska_on.png" />
+    <file src="textures/zet_off.png" />
+    <file src="textures/zet_on.png" />
+    <file src="textures/rmf_off.png" />
+    <file src="textures/rmf_on.png" />
+    <file src="textures/pixel_off.png" />
+    <file src="textures/pixel_on.png" />
+    <file src="textures/party_off.png" />
+    <file src="textures/party_on.png" />
+    <file src="textures/choose.png" />
+    <file src="textures/radio_name.png" />
+    <file src="textures/bg_arrow.png" />
+    <file src="textures/arrow.png" />
+    <file src="textures/volume.png" />
+    <file src="textures/volume_1.png" />
+    <file src="textures/volume_2.png" />
+    <file src="textures/volume_3.png" />
+    <file src="textures/volume_4.png" />
+
+    <info author="Toffy. (Skype: przemek.silipicki1, FB: fb.me/przemekmm2)"></info>
+</meta>

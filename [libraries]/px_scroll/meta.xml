@@ -1,0 +1,14 @@
+<meta>
+	<script src="client/scroll_client.lua" type="client" cache="false"/>
+
+	<export function="dxCreateScroll" type="client"/>
+	<export function="dxDestroyScroll" type="client"/>
+	<export function="dxScrollGetPosition" type="client"/>
+	<export function="dxScrollSetPosition" type="client"/>
+	<export function="dxScrollUpdateTable" type="client"/>
+	<export function="dxScrollSetAlpha" type="client"/>
+	<export function="dxScrollGetRTPosition" type="client"/>
+	<export function="dxScrollUpdateRTSize" type="client"/>
+
+    <download_priority_group>200</download_priority_group>
+</meta>

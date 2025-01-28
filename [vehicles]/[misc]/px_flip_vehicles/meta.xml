@@ -1,0 +1,11 @@
+<meta>
+    <script src="server/server_flip.lua" type="server"/>
+    <script src="client/client_flip.lua" type="client" cache="false"/>
+
+    <file src="assets/images/car.png"/>
+    <file src="assets/images/icon.png"/>
+    <file src="assets/images/progress.png"/>
+    <file src="assets/images/icon_hover.png"/>
+
+    <export function="action" type="server"/>
+</meta>

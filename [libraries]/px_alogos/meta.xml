@@ -1,0 +1,22 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <export function="dxDrawLogo" type="client"/>
+    <export function="dxDrawMiniLogo" type="client"/>
+
+    <file src="logos/x-mint.png"/>
+    <file src="logos/x-full.png"/>
+    <file src="logos/x-lavenda.png"/>
+    <file src="logos/x-orange.png"/>
+    <file src="logos/x-yellow.png"/>
+    <file src="logos/x-white.png"/>
+
+    <file src="logos/m-mint.png"/>
+    <file src="logos/m-full.png"/>
+    <file src="logos/m-lavenda.png"/>
+    <file src="logos/m-orange.png"/>
+    <file src="logos/m-yellow.png"/>
+    <file src="logos/m-white.png"/>
+
+    <download_priority_group>9999</download_priority_group>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+    <script src="client/edit_client.lua" type="client" cache="false"/>
+
+	<file src="assets/sounds/hover.mp3"/>
+    <file src="assets/sounds/click.mp3"/>
+
+	<export function="dxCreateEdit" type="client"/>
+	<export function="dxDestroyEdit" type="client"/>
+	<export function="dxGetEditText" type="client"/>
+	<export function="dxSetEditText" type="client"/>
+	<export function="dxSetEditAlpha" type="client"/>
+	<export function="dxSetEditPosition" type="client"/>
+	
+    <download_priority_group>9999999999999999999999999999999999999999999</download_priority_group>
+</meta>

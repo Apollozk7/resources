@@ -1,0 +1,20 @@
+<meta>
+    <script src="client/client_shop.lua" type="client" cache="false"/>
+    <script src="server/server_shop.lua" type="server"/>
+
+    <export function="action" type="client"/>
+    <export function="dialogFunction" type="client"/>
+
+    <file src="assets/images/window.png"/>
+    <file src="assets/images/header_icon.png"/>
+    <file src="assets/images/row.png"/>
+    <file src="assets/images/row_name.png"/>
+    <file src="assets/images/window_koszyk.png"/>
+    <file src="assets/images/koszyk_infolist.png"/>
+    <file src="assets/images/koszyk_row.png"/>
+    <file src="assets/images/button_buy.png"/>
+    <file src="assets/images/button_close.png"/>
+    <file src="assets/images/remove.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

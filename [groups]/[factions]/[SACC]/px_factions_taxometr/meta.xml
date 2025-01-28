@@ -1,0 +1,7 @@
+<meta>
+    <script src="c_base.lua" type="client" cache="false"/>
+
+    <file src="assets/tablet.png"/>
+
+    <file src="assets/digital-7.ttf"/>
+</meta>

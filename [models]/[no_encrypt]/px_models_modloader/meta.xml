@@ -1,0 +1,60 @@
+<meta>
+    <info type="script" description="Automatically load any mod you want!" author="Remi-X" version="1.0.3" name="ModLoader" />
+    
+    <script src="loader_s.lua" type="server" />
+    <script src="deleter_s.lua" type="server" />
+    <script src="handling.lua" type="server" />
+    <script src="data.lua" type="server" />
+    <script src="replacer_c.lua" type="client" />
+    
+    <file src="skins/triada.txd"></file>
+    <file src="skins/triada.dff"></file>
+    <file src="skins/ballas3.txd"></file>
+    <file src="skins/ballas3.dff"></file>
+    <file src="skins/hmyst.txd"></file>
+    <file src="skins/hmyst.dff"></file>
+    <file src="skins/ballas1.txd"></file>
+    <file src="skins/ballas1.dff"></file>
+    <file src="skins/bmyri.txd"></file>
+    <file src="skins/bmyri.dff"></file>
+    <file src="skins/vhfyst3.txd"></file>
+    <file src="skins/vhfyst3.dff"></file>
+    <file src="skins/bmypol2.txd"></file>
+    <file src="skins/bmypol2.dff"></file>
+    <file src="skins/sfypro.txd"></file>
+    <file src="skins/sfypro.dff"></file>
+    <file src="skins/vwfyst1.txd"></file>
+    <file src="skins/vwfyst1.dff"></file>
+    <file src="skins/swmyst.txd"></file>
+    <file src="skins/swmyst.dff"></file>
+    <file src="skins/dnb2.txd"></file>
+    <file src="skins/dnb2.dff"></file>
+    <file src="skins/bfybe.txd"></file>
+    <file src="skins/bfybe.dff"></file>
+    <file src="skins/ballas2.txd"></file>
+    <file src="skins/ballas2.dff"></file>
+    <file src="skins/bfori.txd"></file>
+    <file src="skins/bfori.dff"></file>
+    <file src="skins/swfystr.txd"></file>
+    <file src="skins/swfystr.dff"></file>
+    <file src="skins/fam2.txd"></file>
+    <file src="skins/fam2.dff"></file>
+    <file src="skins/vbmycr.txd"></file>
+    <file src="skins/vbmycr.dff"></file>
+    <file src="skins/gungrl3.txd"></file>
+    <file src="skins/gungrl3.dff"></file>
+    <file src="skins/wmyro.txd"></file>
+    <file src="skins/wmyro.dff"></file>
+    <file src="skins/wfycrk.txd"></file>
+    <file src="skins/wfycrk.dff"></file>
+    <file src="skins/vbfyst2.txd"></file>
+    <file src="skins/vbfyst2.dff"></file>
+    <file src="skins/dnmylc.txd"></file>
+    <file src="skins/dnmylc.dff"></file>
+    <file src="weapons/chromegun.txd"></file>
+    <file src="weapons/chromegun.dff"></file>
+    <file src="weapons/desert_eagle.txd"></file>
+    <file src="weapons/desert_eagle.dff"></file>
+    <file src="weapons/m4.txd"></file>
+    <file src="weapons/m4.dff"></file>
+</meta>

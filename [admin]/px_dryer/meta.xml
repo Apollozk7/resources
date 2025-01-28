@@ -1,0 +1,10 @@
+<meta>
+    <script src="client/dryer_client.lua" type="client" cache="false"/>
+    <script src="server/dryer_server.lua" type="server"/>
+
+    <file src="assets/images/arrow.png"/>
+    <file src="assets/images/window.png"/>
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
+    <download_priority_group>-1</download_priority_group>
+</meta>

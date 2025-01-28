@@ -1,0 +1,29 @@
+<meta>
+	<script src="c_nametags.lua" type="client" cache="false"/>
+	<script src="c_afk.lua" type="client" cache="false"/>
+
+	<script src="s_base.lua" type="server"/>
+	<script src="s_id.lua" type="server"/>
+
+    <file src="textures/mute-talk.png"/>
+
+    <file src="textures/premium-icon.png"/>
+    <file src="textures/gold-icon.png"/>
+
+    <file src="textures/sad.png"/>
+    <file src="textures/talk.png"/>
+    <file src="textures/voicemode.png"/>
+    <file src="textures/afk.png"/>
+
+    <file src="textures/typing.png"/>
+    <file src="textures/circle.png"/>
+
+    <file src="textures/afk_header.png"/>
+
+	<export function="findPlayer" type="server"/>
+	<export function="outputChatWithDistance" type="server"/>
+	<export function="isPlayerHaveMute" type="server"/>
+	<export function="stripColors" type="server"/>
+    
+    <download_priority_group>-2</download_priority_group>
+</meta>

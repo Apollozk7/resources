@@ -1,0 +1,3 @@
+<meta>
+    <script src="server/whitelist_server.lua" type="server"/>
+</meta>

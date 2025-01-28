@@ -1,0 +1,55 @@
+<meta>
+    <script src="c_management.lua" type="client" cache="false"/>
+    <script src="s_management.lua" type="server"/>
+
+    <!-- bars -->
+    <script src="lua_bars/stats.lua" type="client" cache="false"/>
+
+    <file src="textures/bars/stats/logo_sapd.png"/>
+    <file src="textures/bars/stats/logo_sacc.png"/>
+    <file src="textures/bars/stats/logo_psp.png"/>
+    <file src="textures/bars/stats/logo_sara.png"/>
+
+    <file src="textures/bars/stats/circle.png"/>
+
+    <script src="lua_bars/users.lua" type="client" cache="false"/>
+    <file src="textures/bars/users/list.png"/>
+    <file src="textures/bars/users/row.png"/>
+    <file src="textures/bars/users/rozwin.png"/>
+    <file src="textures/bars/users/user_icon.png"/>
+    <file src="textures/bars/users/awansuj.png"/>
+    <file src="textures/bars/users/degraduj.png"/>
+    <file src="textures/bars/users/wyrzuc.png"/>
+    <file src="textures/bars/users/checkbox.png"/>
+    <file src="textures/bars/users/checkbox_selected.png"/>
+    <file src="textures/bars/users/zwin.png"/>
+
+    <script src="lua_bars/vehs.lua" type="client" cache="false"/>
+    <file src="textures/bars/vehs/map.png"/>
+    <file src="textures/bars/vehs/bg.png"/>
+    <file src="textures/bars/vehs/blip.png"/>
+
+    <script src="lua_bars/ranks.lua" type="client" cache="false"/>
+    <file src="textures/bars/ranks/edit_name.png"/>
+    <file src="textures/bars/ranks/edit_money.png"/>
+    <file src="textures/bars/ranks/button_add.png"/>
+    <!-- -->
+
+    <file src="textures/window.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/left_bar.png"/>
+    <file src="textures/logo_bg.png"/>
+
+    <file src="textures/logo_sapd.png"/>
+    <file src="textures/logo_sacc.png"/>
+    <file src="textures/logo_sara.png"/>
+    <file src="textures/logo_psp.png"/>
+
+    <file src="textures/bar_1.png"/>
+    <file src="textures/bar_2.png"/>
+    <file src="textures/bar_3.png"/>
+    <file src="textures/bar_4.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

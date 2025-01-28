@@ -1,0 +1,9 @@
+<meta>
+	<script src="client/notifications_c.lua" type="client" cache="false"/>
+	<script src="server/notifications_s.lua" type="server"/>
+
+	<export function="noti" type="client"/>
+	<export function="noti" type="server"/>
+
+	<download_priority_group>-1</download_priority_group>
+</meta>

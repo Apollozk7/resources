@@ -1,0 +1,11 @@
+<meta>
+	<export function="dxDrawBlur" type="client" />
+
+	<script src= "c_blur.lua" type="client" cache="false" />
+
+	<file src="shaders/blurH.fx" />
+	<file src="shaders/blurV.fx" />
+	<file src="shaders/mta-helper.fx" />
+
+	<download_priority_group>9999999999999999999999999999999999999999999999</download_priority_group>
+</meta>

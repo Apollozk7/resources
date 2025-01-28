@@ -1,0 +1,6 @@
+txd = engineLoadTXD ("L.txd", 1860) 
+engineImportTXD(txd, 1860)
+dff = engineLoadDFF ("L.dff", 1860)
+engineReplaceModel(dff, 1860)
+col = engineLoadCOL( "L.col" )
+engineReplaceCOL( col, 1860 )

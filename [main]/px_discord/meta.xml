@@ -1,0 +1,8 @@
+<meta>
+    <script src="discord.lua" type="server"/>
+    <script src='rpc.lua' type="client" cache='false'/>
+
+    <export function="sendDiscordLogs" type="server"/>
+
+	<min_mta_version client="1.5.5" server="1.5.5"/>
+</meta>

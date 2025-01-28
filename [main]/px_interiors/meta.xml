@@ -1,0 +1,14 @@
+<meta>
+    <script src="server/server_interiors.lua" type="server"/>
+    <script src="client/client_interiors.lua" type="client" cache="false"/>
+    <script src="client/c_elevator.lua" type="client" cache="false"/>
+
+    <file src="assets/images/marker.png"/>
+    <file src="assets/images/window.png"/>
+
+    <file src="assets/images/bg.png"/>
+    <file src="assets/images/button.png"/>
+    <file src="assets/images/button_hover.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

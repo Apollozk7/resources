@@ -1,0 +1,10 @@
+<meta>    
+    <script src="c_handcuffs.lua" type="client" cache="false"/>
+    <script src="s_handcuffs.lua" type="server"/>
+
+    <file src="textures/zakuj.png"/>
+    <file src="textures/wsadz.png"/>
+    <file src="textures/wysadz.png"/>
+
+    <export function="action" type="server"/>
+</meta>

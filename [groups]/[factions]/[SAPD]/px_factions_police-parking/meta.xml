@@ -1,0 +1,22 @@
+<meta>
+    <script src="c_parking.lua" type="client" cache="false"/>
+    <script src="c_insert_parking.lua" type="client" cache="false"/>
+    <script src="s_parking.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/header.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/checkbox.png"/>
+    <file src="textures/checkbox_selected.png"/>
+    <file src="textures/button-icon-x.png"/>
+    <file src="textures/editbox-icon-$.png"/>
+    <file src="textures/button-icon-play.png"/>
+
+    <file src="textures/get/header.png"/>
+    <file src="textures/get/row.png"/>
+    <file src="textures/get/choose.png"/>
+    <file src="textures/get/window.png"/>
+    <file src="textures/get/garageMarker.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

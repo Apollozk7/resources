@@ -1,0 +1,16 @@
+<meta>
+	<script src="c_plates.lua" type="client" cache="false"/>
+
+	<min_mta_version client="1.4" server="1.4"/>
+
+	<file src="assets/bg.png"/>
+	<file src="assets/digital-7.ttf"/>
+
+	<file src="assets/license_overlay.png"/>
+	<file src="assets/license_overlay_1.png"/>
+	<file src="assets/license_background.png"/>
+
+	<file src="assets/shader.fx"/>
+
+	<export function="getPlateRT" type="client"/>
+</meta>

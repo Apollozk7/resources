@@ -1,0 +1,12 @@
+<meta>
+	<script src="c_panel.lua" type="client" cache="false"/>
+	<script src="s_base.lua" type="server"/>
+
+	<file src="textures/window.png"/>
+	<file src="textures/row.png"/>
+	<file src="textures/close.png"/>
+	<file src='textures/button.png'/>
+	<file src='textures/marker.png'/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

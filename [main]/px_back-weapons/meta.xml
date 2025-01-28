@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_weapons.lua" type="client" cache="false"/>
+    <export function="destroyWeapon" type="client"/>
+</meta>

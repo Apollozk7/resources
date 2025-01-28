@@ -1,0 +1,6 @@
+<meta>
+    <script src="c_helmet.lua" type="client" cache="false"/>
+    <script src="s_helmet.lua"/>
+
+    <file src="moto.dff"/>
+</meta>

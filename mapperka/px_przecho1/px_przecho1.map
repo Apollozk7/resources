@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (vgsEspray01) (1)" radius="10.780856" interior="-1" model="8955" lodModel="0" posX="2393.7656" posY="1490.5469" posZ="13" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (vgsEspdr01) (1)" radius="6.635283" interior="-1" model="8957" lodModel="0" posX="2393.7656" posY="1483.6875" posZ="12.71094" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (vgsEspras01) (1)" radius="30.732491" interior="-1" model="8954" lodModel="8956" posX="2397.3906" posY="1503.0234" posZ="14.00781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

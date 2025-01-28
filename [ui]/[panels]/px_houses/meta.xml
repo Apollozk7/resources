@@ -1,0 +1,42 @@
+<meta>
+    <script src="c_houses.lua" type="client" cache="false"/>
+    <script src="s_houses.lua" type="server"/>
+    <script src="s_garages.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/logo.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/podpis.png"/>
+
+    <file src="textures/edit_icon.png"/>
+    <file src="textures/button_accept.png"/>
+    <file src="textures/button_cancel.png"/>
+
+    <file src="textures/info_icon.png"/>
+    <file src="textures/arrow.png"/>
+    <file src="textures/close.png"/>
+
+    <file src="textures/button.png"/>
+    <file src="textures/button_hover.png"/>
+    <file src="textures/button_hover_red.png"/>
+
+    <file src="textures/enter.png"/>
+    <file src="textures/key.png"/>
+    <file src="textures/coin.png"/>
+    <file src="textures/logout.png"/>
+
+    <file src="textures/edit_icon_user.png"/>
+
+    <file src="textures/houseMarker.png"/>
+    <file src="textures/outMarker.png"/>
+
+    <file src="textures/garageMarker.png"/>
+    <file src="textures/outMarker.png"/>
+
+    <file src="sounds/door_close.wav"/>
+    <file src="sounds/door_open.wav"/>
+    <file src="sounds/enter_garage.wav"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

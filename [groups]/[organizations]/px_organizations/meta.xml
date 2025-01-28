@@ -1,0 +1,32 @@
+<meta>
+    <script src="c_admin.lua" type="client" cache="false"/>
+    
+    <script src="s_admin.lua" type="server"/>
+    <script src="s_ips.lua" type="server"/>
+    <script src="s_tasks.lua" type="server"/>
+    <script src="s_upgrades.lua" type="server"/>
+
+    <export function="isPlayerInOrganization" type="server"/>
+    <export function="getPlayerRank" type="server"/>
+    <export function="getPlayerRankID" type="server"/>
+    <export function="updateOrganizationLevel" type="server"/>
+    <export function="getOrganizationLevelUP" type="server"/>
+
+    <export function="ipsCreateClub" type="server"/>
+    <export function="ipsAddPlayer" type="server"/>
+    <export function="ipsDestroyClub" type="server"/>
+    <export function="ipsRemovePlayer" type="server"/>
+    <export function="ipsGetClubLogo" type="server"/>
+
+    <export function="updateOrganizationTask" type="server"/>
+    <export function="getOrganizationTasks" type="server"/>
+    <export function="setOrganizationTasks" type="server"/>
+
+    <export function="addOrganizationUpgrade" type="server"/>
+    <export function="isOrganizationHaveUpgrade" type="server"/>
+    <export function="getOrganizationUpgrades" type="server"/>
+
+    <export function="getOrganizationMoney" type="server"/>
+    <export function="giveOrganizationMoney" type="server"/>
+    <export function="takeOrganizationMoney" type="server"/>
+</meta>

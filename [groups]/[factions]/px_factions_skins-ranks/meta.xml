@@ -1,0 +1,38 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    
+    <file src="shader.fx"/>
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
+
+    <file src="textures/1.png"/>
+    <file src="textures/2.png"/>
+    <file src="textures/3.png"/>
+    <file src="textures/4.png"/>
+    <file src="textures/5.png"/>
+    <file src="textures/6.png"/>
+    <file src="textures/7.png"/>
+    <file src="textures/8.png"/>
+    <file src="textures/9.png"/>
+    <file src="textures/10.png"/>
+
+    <file src="textures/strazak.png"/>
+    <file src="textures/starszystrazak.png"/>
+    <file src="textures/sekcyjny.png"/>
+    <file src="textures/starszysekcyjny.png"/>
+    <file src="textures/mlodszyogniomistrz.png"/>
+    <file src="textures/ogniomistrz.png"/>
+    <file src="textures/starszyogniomistrz.png"/>
+    <file src="textures/mlodszyaspirant.png"/>
+    <file src="textures/aspirant.png"/>
+    <file src="textures/starszyaspirant.png"/>
+    <file src="textures/aspirantsztabowy.png"/>
+    <file src="textures/mlodszykapitan.png"/>
+    <file src="textures/kapitan.png"/>
+    <file src="textures/starszykapitan.png"/>
+    <file src="textures/mlodszybrygadier.png"/>
+    <file src="textures/brygadier.png"/>
+    <file src="textures/starszybrygadier.png"/>
+    <file src="textures/nadbrygadier.png"/>
+    <file src="textures/generalbrygadier.png"/>
+</meta>

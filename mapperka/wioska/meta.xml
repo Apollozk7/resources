@@ -1,0 +1,44 @@
+<meta>
+    <script src='c_base.lua' type='client' cache='false'/>
+
+    <file src='models/16197.dff'/>
+    <file src='models/16197.col'/>
+
+    <file src='models/16202.txd'/>
+    <file src='models/16202.dff'/>
+    <file src='models/16202.col'/>
+
+    <file src='models/16203.txd'/>
+    <file src='models/16203.dff'/>
+    <file src='models/16203.col'/>
+
+    <file src='models/16204.txd'/>
+    <file src='models/16204.dff'/>
+    <file src='models/16204.col'/>
+
+    <file src='models/16205.txd'/>
+    <file src='models/16205.dff'/>
+    <file src='models/16205.col'/>
+
+    <file src='models/16208.txd'/>
+    <file src='models/16208.dff'/>
+    <file src='models/16208.col'/>
+
+    <file src='models/16209.txd'/>
+    <file src='models/16209.dff'/>
+    <file src='models/16209.col'/>
+
+    <file src='models/16210.dff'/>
+    <file src='models/16210.col'/>
+
+    <file src='models/16257.txd'/>
+    <file src='models/16257.dff'/>
+    <file src='models/16257.col'/>
+
+    <file src='models/16259.dff'/>
+    <file src='models/16259.col'/>
+
+    <file src='models/16261.txd'/>
+    <file src='models/16261.dff'/>
+    <file src='models/16261.col'/>
+</meta>

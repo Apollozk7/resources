@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_ghost.lua" type="client" cache="false"/>
+    <script src="s_ghost.lua" type="server"/>
+</meta>

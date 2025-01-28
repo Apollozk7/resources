@@ -1,0 +1,36 @@
+<meta>
+    <script src="c_items.lua" type="client" cache="false"/>
+    <script src="s_items.lua" type="server"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/row_hover.png"/>
+
+    <file src="textures/icon_1.png"/>
+    <file src="textures/icon_2.png"/>
+    <file src="textures/icon_3.png"/>
+    <file src="textures/icon_4.png"/>
+    <file src="textures/icon_5.png"/>
+    <file src="textures/icon_6.png"/>
+    <file src="textures/icon_7.png"/>
+    <file src="textures/icon_8.png"/>
+
+    <file src="textures/bucket.png"/>
+    <file src="textures/kanister.png"/>
+    <file src="textures/fix.png"/>
+    <file src="textures/tire.png"/>
+    <file src="textures/lamp.png"/>
+
+    <file src="textures/markerStart.png"/>
+
+    <file src="aodo_1.wav"/>
+
+    <export function="action" type="client"/>
+
+    <export function="isPlayerHaveItem" type="server"/>
+    <export function="usePlayerItem" type="server"/>
+    <export function="destroyPlayerItem" type="server"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

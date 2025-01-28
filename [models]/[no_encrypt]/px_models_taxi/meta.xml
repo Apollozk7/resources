@@ -1,0 +1,10 @@
+<meta>	
+    <script src="c.lua" type="client" cache="false" />
+	
+	<file src="modele/taxi.txd"/>
+	<file src="modele/taxi.dff"/>
+	<file src="modele/taxi.col"/>
+
+	<file src="modele/znak_taxi.dff"/>
+	<file src="modele/znak_taxi.col"/>
+</meta>

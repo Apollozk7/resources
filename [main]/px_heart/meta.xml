@@ -1,0 +1,5 @@
+<meta>
+	<script src="client/heart_client.lua" type="client" cache="false"/>
+
+	<file src="assets/sound/heart.mp3"/>
+</meta>

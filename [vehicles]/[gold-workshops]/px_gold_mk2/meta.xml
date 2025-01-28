@@ -1,0 +1,13 @@
+<meta>
+    <script src="c_mk2.lua" type="client" cache="false"/>
+    <script src="s_mk2.lua" type="server"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/progress.png"/>
+    <file src="textures/suwak.png"/>
+    <file src="textures/line.png"/>
+    
+    <file src="textures/mk2.png"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

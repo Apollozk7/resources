@@ -1,0 +1,17 @@
+<meta>
+    <script src="c_dialogs.lua" type="client" cache="false"/>
+
+    <file src="textures/window.png"/>
+    <file src="textures/window_circle.png"/>
+    <file src="textures/icon.png"/>
+    <file src="textures/button.png"/>
+    <file src="textures/button_hover.png"/>
+    <file src="textures/circle.png"/>
+    <file src="textures/mask.png"/>
+
+    <export function="createDialog" type="client"/>
+    <export function="destroyDialog" type="client"/>
+    <export function="refreshDialog" type="client"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

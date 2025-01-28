@@ -1,0 +1,120 @@
+<meta>
+	<script src="c_assets.lua" type="client" cache="false"/>
+	<script src="c_base.lua" type="client" cache="false"/>
+	<script src="c_nitro.lua" type="client" cache="false"/>
+	<script src="c_lpg.lua" type="client" cache="false"/>
+	<script src="s_base.lua" type="server"/>
+
+	<script src="bars/speedo_1.lua" type="client" cache="false"/>
+	<script src="bars/speedo_2.lua" type="client" cache="false"/>
+	<script src="bars/speedo_3.lua" type="client" cache="false"/>
+	<script src="bars/speedo_4.lua" type="client" cache="false"/>
+	<script src="bars/speedo_5.lua" type="client" cache="false"/>
+	<script src="bars/speedo_6.lua" type="client" cache="false"/>
+	<script src="bars/speedo_7.lua" type="client" cache="false"/>
+
+	<file src="textures/f_circle.png"/>
+
+	<file src="textures/circle_1.png"/>
+	<file src="textures/circle_2.png"/>
+	<file src="textures/bg.png"/>
+	<file src="textures/bg2.png"/>
+
+	<file src="textures/1/bg.png"/>
+	<file src="textures/1/speed_bg.png"/>
+	<file src="textures/1/speed.png"/>
+	<file src="textures/1/speed_2.png"/>
+	<file src="textures/1/speed_3.png"/>
+	<file src="textures/1/speed_bg_mask.png"/>
+	<file src="textures/1/fuel_bg.png"/>
+	<file src="textures/1/fuel.png"/>
+	<file src="textures/1/nitro_bg.png"/>
+	<file src="textures/1/nitro.png"/>
+	<file src="textures/1/elipses.png"/>
+
+	<file src="textures/2/bg.png"/>
+	<file src="textures/2/speed.png"/>
+	<file src="textures/2/speed-bg.png"/>
+	<file src="textures/2/speed-small.png"/>
+	<file src="textures/2/speed-bg-small.png"/>
+    <file src="textures/2/car-light.png"/>
+    <file src="textures/2/car-light-on.png"/>
+    <file src="textures/2/engine.png"/>
+    <file src="textures/2/engine-on.png"/>
+    <file src="textures/2/handbrake.png"/>
+    <file src="textures/2/handbrake-on.png"/>
+    <file src="textures/2/fuel-bg.png"/>
+    <file src="textures/2/fuel.png"/>
+    <file src="textures/2/distance.png"/>
+	<file src="textures/2/nitro_bg.png"/>    
+	<file src="textures/2/nitro.png"/>
+	<file src="textures/2/lines.png"/>
+
+	<file src="textures/2/speed2.png"/>
+	<file src="textures/2/speed3.png"/>
+	<file src="textures/2/speed4.png"/>
+
+	<file src="textures/3/bg.png"/>
+
+	<file src="textures/4/tarcza.png"/>
+	<file src="textures/4/center.png"/>
+	<file src="textures/4/arrow.png"/>
+	<file src="textures/4/rpm_tarcza.png"/>
+	<file src="textures/4/rpm_center.png"/>
+	<file src="textures/4/rpm_arrow.png"/>
+	<file src="textures/4/fuel_tarcza.png"/>
+	<file src="textures/4/fuel_center.png"/>
+	<file src="textures/4/fuel_arrow.png"/>
+
+	<file src="textures/5/bg-speed.png"/>
+	<file src="textures/5/arrow.png"/>
+	<file src="textures/5/mileage.png"/>
+	<file src="textures/5/fuel-bg.png"/>
+	<file src="textures/5/fuel.png"/>
+	<file src="textures/5/bg-tachto.png"/>
+	<file src="textures/5/arrow-small.png"/>
+	<file src="textures/5/gear.png"/>
+	<file src="textures/5/nitro-bg.png"/>
+	<file src="textures/5/nitro.png"/>
+	<file src="textures/5/outline-tachto.png"/>
+	<file src="textures/5/outline-speed.png"/>
+
+	<file src="textures/6/bg-speed.png"/>
+	<file src="textures/6/arrow.png"/>
+	<file src="textures/6/car-light.png"/>
+	<file src="textures/6/car-light-glow.png"/>
+	<file src="textures/6/engine.png"/>
+	<file src="textures/6/engine-glow.png"/>
+	<file src="textures/6/handbrake.png"/>
+	<file src="textures/6/handbrake-glow.png"/>
+	<file src="textures/6/trailer.png"/>
+	<file src="textures/6/trailer-glow.png"/>
+	<file src="textures/6/bg-fuel.png"/>
+	<file src="textures/6/arrow-small.png"/>
+	<file src="textures/6/bg-tachto.png"/>
+	<file src="textures/6/gear.png"/>
+	<file src="textures/6/circle.png"/>
+
+	<file src="textures/7/cockpit.png"/>
+	<file src="textures/7/destruction_level.png"/>
+	<file src="textures/7/fuel_pointer.png"/>
+	<file src="textures/7/switch_banner_down.png"/>
+	<file src="textures/7/switch_banner_up.png"/>
+	<file src="textures/7/switch_down.png"/>
+	<file src="textures/7/switch_up.png"/>
+	<file src="textures/7/button_banner.png"/>
+	<file src="textures/7/button_banner_light.png"/>
+	<file src="textures/7/button_engine.png"/>
+	<file src="textures/7/button_engine_light.png"/>
+
+	<file src="shaders/hud_mask.fx"/>
+	<file src="shaders/tex_matrix.fx"/>
+
+	<file src="fonts/digital-7.ttf"/>
+	<file src="fonts/LCDM2N__.ttf"/>
+
+	<export function="getVehicleSpeedoType" type="client"/>
+	<export function="applyElementCustomDatas" type="client"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>

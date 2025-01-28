@@ -1,0 +1,12 @@
+﻿<meta>
+    <script src="script.lua" type="client" cache="false" />
+    
+    <file src="files/znak_dui.dff"/>
+    <file src="files/znaki.col"/>
+    <file src="files/znak1.dff"/>
+    <file src="files/znak2.dff"/>
+    <file src="files/znak3.dff"/>
+    <file src="files/tekstury.txd"/>
+
+    <min_mta_version client="1.5.7-9.20147"></min_mta_version>
+</meta>

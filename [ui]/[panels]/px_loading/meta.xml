@@ -1,0 +1,30 @@
+<meta>
+    <script src="c_assets.lua" type="client" cache="false" />
+    <script src="c_core.lua" type="client" cache="false" />
+    <script src="s_core.lua" type="server" />
+    
+    <file src="textures/background.png" />
+    <file src="textures/circle.png" />
+    <file src="textures/logo.png" />
+    <file src="textures/window.png" />
+    
+    <file src="sounds/sound.mp3" />
+    
+    <file src="textures/screens/ss1.png" />
+    <file src="textures/screens/ss2.png" />
+    <file src="textures/screens/ss3.png" />
+    <file src="textures/screens/ss4.png" />
+    <file src="textures/screens/ss5.png" />
+
+    <file src="fonts/Font-Regular.ttf"/>
+    <file src="fonts/Font-Medium.ttf"/>
+
+    <export function="createLoadingScreen" type="shared" />
+    <export function="destroyLoadingScreen" type="client" />
+    <export function="createBackgroundScreen" type="client" />
+    <export function="destroyBackgroundScreen" type="client" />
+    <export function="isLoadingVisible" type="client" />
+    
+    <download_priority_group>999</download_priority_group>
+    <min_mta_version client="1.5.8-9.20788"></min_mta_version>
+</meta>

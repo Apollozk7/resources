@@ -1,0 +1,14 @@
+<meta>
+    <script src="client/client_line.lua" type="client" cache="false"/>
+    <script src="server/server_line.lua" type="server"/>
+
+    <file src="firehose.png"/>
+
+    <export function="create3dLine" type="shared"/>
+    <export function="destroy3dLine" type="shared"/>
+    <export function="isPlayerHaveLine" type="shared"/>
+    <export function="addLinePosition" type="client"/>
+    <export function="setLineLastPosition" type="client"/>
+
+    <download_priority_group>200</download_priority_group>
+</meta> 

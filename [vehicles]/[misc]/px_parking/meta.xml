@@ -1,0 +1,30 @@
+<meta>
+    <info author="Xyrusek"/>
+    <script src="s_utils.lua" type="server" cache="false" validate="true"/>
+    <script src="s_core.lua" type="server" cache="false" validate="true"/>
+    <script src="c_utils.lua" type="client" cache="false" validate="true"/>
+    <script src="c_core.lua" type="client" cache="false" validate="true"/>
+    <script src="c_assets.lua" type="client" cache="false" validate="true"/>
+    <script src="c_panel.lua" type="client" cache="false" validate="true"/>
+    <script src="c_slider.lua" type="client" cache="false" validate="true"/>
+    <script src="c_anims.lua" type="client" cache="false" validate="true"/>
+
+    <file src="textures/bg.png"/>
+    <file src="textures/button-minus.png"/>
+    <file src="textures/button-plus.png"/>
+    <file src="textures/car.png"/>
+    <file src="textures/close.png"/>
+    <file src="textures/crown.png"/>
+    <file src="textures/garage.png"/>
+    <file src="textures/row.png"/>
+    <file src="textures/row-big.png"/>
+    <file src="textures/share.png"/>
+    <file src="textures/user.png"/>
+    <file src="textures/default-avatar.png"/>
+
+    <file src="textures/garageMarker.png"/>
+    <file src="textures/outMarker.png"/>
+
+    <min_mta_version server="1.5.8" client="1.5.8"></min_mta_version>
+    <download_priority_group>-1</download_priority_group>
+</meta>

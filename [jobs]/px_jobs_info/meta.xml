@@ -1,0 +1,19 @@
+<meta>
+    <script src="client/client_money.lua" type="client" cache="false"/>
+    <script src="server/server_money.lua" type="server"/>
+
+    <file src="assets/textures/bg.png"/>
+    <file src="assets/textures/wallet.png"/>
+    <file src="assets/textures/time.png"/>
+    <file src="assets/textures/hour.png"/>
+    <file src="assets/textures/line.png"/>
+    <file src="assets/textures/check.png"/>
+    <file src="assets/textures/red_line.png"/>
+    <file src="assets/textures/repeat_time.png"/>
+    <file src="assets/textures/take_money.png"/>
+    <file src="assets/textures/bonus.png"/>
+
+    <export function="addPlayerPayment" type="client"/>
+
+    <download_priority_group>-1</download_priority_group>
+</meta>
